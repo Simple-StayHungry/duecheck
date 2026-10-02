@@ -1,0 +1,85 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+permissions:
+  contents: read
+
+# This project ships no automated test suite yet, so CI verifies structure and
+# recognition assets instead of pretending to run tests. See "验证状态" in README.
+jobs:
+  integrity:
+    name: structure & asset integrity (Python ${{ matrix.python-version }})
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        python-version: ["3.10", "3.12", "3.13"]
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python-version }}
+
+      - name: Install runtime dependencies
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install -r DueCheck_三要素核查程序/requirements.txt
+
+      - name: Every module must be syntactically valid
+        working-directory: DueCheck_三要素核查程序
+        run: |
+          python - <<'PY'
+          import ast, pathlib, sys
+          bad = []
+          modules = sorted(pathlib.Path(".").glob("*.py"))
+          for f in modules:
+              try:
+                  ast.parse(f.read_text(encoding="utf-8"))
+              except SyntaxError as e:
+                  bad.append(f"{f}: {e}")
+          if bad:
+              print("\n".join(bad))
+              sys.exit("syntax errors found")
+          print(f"ok: {len(modules)} modules parse cleanly")
+          PY
+
+      - name: Modules must import without side effects
+        working-directory: DueCheck_三要素核查程序
+        run: |
+          python - <<'PY'
+          import importlib, pathlib, sys
+          sys.path.insert(0, ".")
+          # start.py is a launcher and has no __main__ guard: importing it would
+          # start the web service. Never import it here.
+          skip = {"start", "app"}
+          names = sorted(p.stem for p in pathlib.Path(".").glob("*.py")
+                         if p.stem not in skip and p.stem != "__init__")
+          for n in names:
+              importlib.import_module(n)
+          print(f"ok: {len(names)} modules import cleanly")
+          PY
+
+      - name: Recognition assets and site registries must be intact
+        working-directory: DueCheck_三要素核查程序
+        run: |
+          python - <<'PY'
+          import json, pathlib, sys
+          assets = sorted(pathlib.Path("map_assets").glob("*.npz"))
+          if len(assets) != 82:
+              sys.exit(f"expected 82 map assets, found {len(assets)}")
+          for name in ("columns.json", "column_maps.json"):
+              data = json.loads(pathlib.Path(name).read_text(encoding="utf-8"))
+              assert "columns" in data, f"{name} has no columns registry"
+              print(f"ok: {name} -> {len(data['columns'])} entries")
+          print(f"ok: {len(assets)} layout descriptor assets present")
+          PY
+
+      - name: Public release scan
+        run: python tools/public_release_check.py
