@@ -1,0 +1,39 @@
+# Runtime / local state
+.DS_Store
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+*.log
+.env
+.env.*
+
+# User and business files
+input/
+output/
+exports/
+data/
+jobs/
+cache/
+temp/
+tmp/
+private/
+*.doc
+*.docx
+*.xls
+*.xlsx
+*.pdf
+*.zip
+*.rar
+*.7z
+*.db
+*.sqlite
+*.sqlite3
+
+# DueCheck runtime state
+.duecheck/
+tasks/
+observations/

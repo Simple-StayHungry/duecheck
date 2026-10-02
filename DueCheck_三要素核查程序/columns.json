@@ -1,0 +1,1659 @@
+{
+ "schema": "columns-2026-09-16-r8",
+ "columns": {
+  "12309.gov.cn/12309/C001/ajxxgk.html": {
+   "key": "12309.gov.cn/12309/C001/ajxxgk.html",
+   "name": "人民检察院案件信息公开网",
+   "url": "https://www.12309.gov.cn/12309/C001/ajxxgk.html",
+   "host": "12309.gov.cn",
+   "family": "site_query",
+   "path_markers": [],
+   "title_keywords": [],
+   "registration": "from_documents",
+   "legacy_coords_available": true,
+   "verification": {
+    "located": 0,
+    "valued": 0,
+    "judged": 0,
+    "samples": 0,
+    "positives": 0,
+    "negatives": 0,
+    "status": "unverified"
+   }
+  },
+  "315-org.net": {
+   "key": "315-org.net",
+   "name": "全国行业信用公共服务平台",
+   "url": "http://www.315-org.net/",
+   "host": "315-org.net",
+   "family": "site_query",
+   "path_markers": [],
+   "title_keywords": [],
+   "registration": "from_documents",
+   "legacy_coords_available": true,
+   "verification": {
+    "located": 0,
+    "valued": 0,
+    "judged": 0,
+    "samples": 0,
+    "positives": 0,
+    "negatives": 0,
+    "status": "unverified"
+   }
+  },
+  "bcpcn.com": {
+   "key": "bcpcn.com",
+   "name": "中国商务信用平台",
+   "url": "https://www.bcpcn.com/",
+   "host": "bcpcn.com",
+   "family": "site_query",
+   "path_markers": [],
+   "title_keywords": [],
+   "registration": "from_documents",
+   "legacy_coords_available": true,
+   "verification": {
+    "located": 0,
+    "valued": 0,
+    "judged": 0,
+    "samples": 0,
+    "positives": 0,
+    "negatives": 0,
+    "status": "unverified"
+   }
+  },
+  "ccgp.gov.cn/search/cr": {
+   "key": "ccgp.gov.cn/search/cr",
+   "name": "中国政府采购网",
+   "url": "https://www.ccgp.gov.cn/search/cr/",
+   "host": "ccgp.gov.cn",
+   "family": "site_query",
+   "path_markers": [],
+   "title_keywords": [],
+   "registration": "from_documents",
+   "legacy_coords_available": true,
+   "verification": {
+    "located": 0,
+    "valued": 0,
+    "judged": 0,
+    "samples": 0,
+    "positives": 0,
+    "negatives": 0,
+    "status": "unverified"
+   }
+  },
+  "cec.org.cn": {
+   "key": "cec.org.cn",
+   "name": "中国电力企业联合会",
+   "url": "https://www.cec.org.cn",
+   "host": "cec.org.cn",
+   "family": "site_query",
+   "path_markers": [],
+   "title_keywords": [],
+   "registration": "from_documents",
+   "legacy_coords_available": true,
+   "verification": {
+    "located": 0,
+    "valued": 0,
+    "judged": 0,
+    "samples": 0,
+    "positives": 0,
+    "negatives": 0,
+    "status": "unverified"
+   }
+  },
+  "cepca.org.cn": {
+   "key": "cepca.org.cn",
+   "name": "中国电力建设企业协会",
+   "url": "http://www.cepca.org.cn/",
+   "host": "cepca.org.cn",
+   "family": "site_query",
+   "path_markers": [],
+   "title_keywords": [],
+   "registration": "from_documents",
+   "legacy_coords_available": true,
+   "verification": {
+    "located": 0,
+    "valued": 0,
+    "judged": 0,
+    "samples": 0,
+    "positives": 0,
+    "negatives": 0,
+    "status": "unverified"
+   }
+  },
+  "chinabond.com.cn": {
+   "key": "chinabond.com.cn",
+   "name": "中国债券信息网",
+   "url": "https://www.chinabond.com.cn/",
+   "host": "chinabond.com.cn",
+   "family": "exchange_table",
+   "path_markers": [],
+   "title_keywords": [],
+   "registration": "from_documents",
+   "legacy_coords_available": true,
+   "verification": {
+    "located": 0,
+    "valued": 0,
+    "judged": 0,
+    "samples": 0,
+    "positives": 0,
+    "negatives": 0,
+    "status": "unverified"
+   }
+  },
+  "chinatax.gov.cn": {
+   "key": "chinatax.gov.cn",
+   "name": "国家税务总局",
+   "url": "http://www.chinatax.gov.cn/",
+   "host": "chinatax.gov.cn",
+   "family": "site_query",
+   "path_markers": [],
+   "title_keywords": [],
+   "registration": "from_documents",
+   "legacy_coords_available": true,
+   "verification": {
+    "located": 0,
+    "valued": 0,
+    "judged": 0,
+    "samples": 0,
+    "positives": 0,
+    "negatives": 0,
+    "status": "unverified"
+   }
+  },
+  "cninfo.com.cn/new/index": {
+   "key": "cninfo.com.cn/new/index",
+   "name": "巨潮资讯网",
+   "url": "http://www.cninfo.com.cn/new/index",
+   "host": "cninfo.com.cn",
+   "family": "exchange_table",
+   "path_markers": [],
+   "title_keywords": [],
+   "registration": "from_documents",
+   "legacy_coords_available": true,
+   "verification": {
+    "located": 0,
+    "valued": 0,
+    "judged": 0,
+    "samples": 0,
+    "positives": 0,
+    "negatives": 0,
+    "status": "unverified"
+   }
+  },
+  "cnipa.gov.cn": {
+   "key": "cnipa.gov.cn",
+   "name": "知识产权局",
+   "url": "https://www.cnipa.gov.cn/",
+   "host": "cnipa.gov.cn",
+   "family": "site_query",
+   "path_markers": [],
+   "title_keywords": [],
+   "registration": "from_documents",
+   "legacy_coords_available": true,
+   "verification": {
+    "located": 0,
+    "valued": 0,
+    "judged": 0,
+    "samples": 0,
+    "positives": 0,
+    "negatives": 0,
+    "status": "unverified"
+   }
+  },
+  "cnsalt.cn": {
+   "key": "cnsalt.cn",
+   "name": "中国盐业协会",
+   "url": "http://www.cnsalt.cn/",
+   "host": "cnsalt.cn",
+   "family": "site_query",
+   "path_markers": [],
+   "title_keywords": [],
+   "registration": "from_documents",
+   "legacy_coords_available": true,
+   "verification": {
+    "located": 0,
+    "valued": 0,
+    "judged": 0,
+    "samples": 0,
+    "positives": 0,
+    "negatives": 0,
+    "status": "unverified"
+   }
+  },
+  "credit.customs.gov.cn": {
+   "key": "credit.customs.gov.cn",
+   "name": "中国海关企业进出口信用信息平台",
+   "url": "http://credit.customs.gov.cn/",
+   "host": "credit.customs.gov.cn",
+   "family": "site_query",
+   "path_markers": [],
+   "title_keywords": [],
+   "registration": "from_documents",
+   "legacy_coords_available": true,
+   "verification": {
+    "located": 0,
+    "valued": 0,
+    "judged": 0,
+    "samples": 0,
+    "positives": 0,
+    "negatives": 0,
+    "status": "unverified"
+   }
+  },
+  "creditchina.gov.cn": {
+   "key": "creditchina.gov.cn",
+   "name": "信用中国企业详情",
+   "url": "https://www.creditchina.gov.cn/",
+   "host": "creditchina.gov.cn",
+   "family": "credit_china_detail",
+   "path_markers": [],
+   "title_keywords": [
+    "企业详情"
+   ],
+   "registration": "from_documents",
+   "legacy_coords_available": true,
+   "verification": {
+    "located": 0,
+    "valued": 0,
+    "judged": 0,
+    "samples": 0,
+    "positives": 0,
+    "negatives": 0,
+    "status": "unverified"
+   }
+  },
+  "creditchina.gov.cn/xinxigongshi/shixinheimingdan": {
+   "key": "creditchina.gov.cn/xinxigongshi/shixinheimingdan",
+   "name": "失信惩戒对象查询_信用中国",
+   "url": "https://www.creditchina.gov.cn/xinxigongshi/shixinheimingdan/",
+   "host": "creditchina.gov.cn",
+   "family": "credit_china_column",
+   "path_markers": [],
+   "title_keywords": [],
+   "registration": "from_documents",
+   "legacy_coords_available": true,
+   "verification": {
+    "located": 0,
+    "valued": 0,
+    "judged": 0,
+    "samples": 0,
+    "positives": 0,
+    "negatives": 0,
+    "status": "unverified"
+   }
+  },
+  "creditchina.gov.cn/xinxigongshi/zhongdianguanzhushixinmingdan": {
+   "key": "creditchina.gov.cn/xinxigongshi/zhongdianguanzhushixinmingdan",
+   "name": "信用中国经营异常名录信息",
+   "url": "https://www.creditchina.gov.cn/xinxigongshi/zhongdianguanzhushixinmingdan/",
+   "host": "creditchina.gov.cn",
+   "family": "credit_china_column",
+   "path_markers": [],
+   "title_keywords": [],
+   "registration": "from_documents",
+   "legacy_coords_available": true,
+   "verification": {
+    "located": 0,
+    "valued": 0,
+    "judged": 0,
+    "samples": 0,
+    "positives": 0,
+    "negatives": 0,
+    "status": "unverified"
+   }
+  },
+  "creditchina.gov.cn/zhuanxiangchaxun/aqsc": {
+   "key": "creditchina.gov.cn/zhuanxiangchaxun/aqsc",
+   "name": "安全生产领域失信生产经营单位_信用中国",
+   "url": "https://www.creditchina.gov.cn/zhuanxiangchaxun/aqsc/",
+   "host": "creditchina.gov.cn",
+   "family": "credit_china_column",
+   "path_markers": [],
+   "title_keywords": [],
+   "registration": "from_documents",
+   "legacy_coords_available": true,
+   "verification": {
+    "located": 0,
+    "valued": 0,
+    "judged": 0,
+    "samples": 0,
+    "positives": 0,
+    "negatives": 0,
+    "status": "unverified"
+   }
+  },
+  "creditchina.gov.cn/zhuanxiangchaxun/shzz": {
+   "key": "creditchina.gov.cn/zhuanxiangchaxun/shzz",
+   "name": "慈善捐款领域联合惩戒对象_信用中国",
+   "url": "https://www.creditchina.gov.cn/zhuanxiangchaxun/shzz/",
+   "host": "creditchina.gov.cn",
+   "family": "credit_china_column",
+   "path_markers": [],
+   "title_keywords": [],
+   "registration": "from_documents",
+   "legacy_coords_available": true,
+   "verification": {
+    "located": 0,
+    "valued": 0,
+    "judged": 0,
+    "samples": 0,
+    "positives": 0,
+    "negatives": 0,
+    "status": "unverified"
+   }
+  },
+  "creditchina.gov.cn/zhuanxiangchaxun/zdlycx?credit_gjtjj_fr_tjsyzsxqy": {
+   "key": "creditchina.gov.cn/zhuanxiangchaxun/zdlycx?credit_gjtjj_fr_tjsyzsxqy",
+   "name": "统计领域严重失信企业及其有关人员_信用中国",
+   "url": "https://www.creditchina.gov.cn/zhuanxiangchaxun/zdlycx/?tablename=credit_gjtjj_fr_tjsyzsxqy&gsName=%E7%BB%9F%E8%AE%A1%E4%B8%A5%E9%87%8D%E5%A4%B1%E4%BF%A1%E4%BC%81%E4%B8%9A%E5%90%8D%E5%8D%95",
+   "host": "creditchina.gov.cn",
+   "family": "credit_china_column",
+   "path_markers": [],
+   "title_keywords": [],
+   "registration": "from_documents",
+   "legacy_coords_available": true,
+   "verification": {
+    "located": 0,
+    "valued": 0,
+    "judged": 0,
+    "samples": 0,
+    "positives": 0,
+    "negatives": 0,
+    "status": "unverified"
+   }
+  },
+  "creditchina.gov.cn/zhuanxiangchaxun/zdlycx?credit_rsb_fr_tqnmggz": {
+   "key": "creditchina.gov.cn/zhuanxiangchaxun/zdlycx?credit_rsb_fr_tqnmggz",
+   "name": "严重拖欠农民工工资失信主体_信用中国",
+   "url": "https://www.creditchina.gov.cn/zhuanxiangchaxun/zdlycx/?tablename=credit_rsb_fr_tqnmggz&gsName=%E6%8B%96%E6%AC%A0%E5%86%9C%E6%B0%91%E5%B7%A5%E5%B7%A5%E8%B5%84%E5%A4%B1%E4%BF%A1%E8%81%94%E5%90%88%E6%83%A9%E6%88%92%E5%AF%B9%E8%B1%A1%E5%90%8D%E5%8D%95",
+   "host": "creditchina.gov.cn",
+   "family": "credit_china_column",
+   "path_markers": [],
+   "title_keywords": [],
+   "registration": "from_documents",
+   "legacy_coords_available": true,
+   "verification": {
+    "located": 0,
+    "valued": 0,
+    "judged": 0,
+    "samples": 0,
+    "positives": 0,
+    "negatives": 0,
+    "status": "unverified"
+   }
+  },
+  "creditchina.gov.cn/zhuanxiangchaxun/zhengfucaigouyanzhongweifashixinmingdan": {
+   "key": "creditchina.gov.cn/zhuanxiangchaxun/zhengfucaigouyanzhongweifashixinmingdan",
+   "name": "政府采购严重违法失信名单查询_信用中国",
+   "url": "https://www.creditchina.gov.cn/zhuanxiangchaxun/zhengfucaigouyanzhongweifashixinmingdan/",
+   "host": "creditchina.gov.cn",
+   "family": "credit_china_column",
+   "path_markers": [],
+   "title_keywords": [
+    "政府采购严重违法失信名单查询"
+   ],
+   "registration": "from_documents",
+   "legacy_coords_available": true,
+   "verification": {
+    "located": 0,
+    "valued": 0,
+    "judged": 0,
+    "samples": 0,
+    "positives": 0,
+    "negatives": 0,
+    "status": "unverified"
+   }
+  },
+  "creditchina.gov.cn/zhuanxiangchaxun/zhongdashuishouweifaanjian": {
+   "key": "creditchina.gov.cn/zhuanxiangchaxun/zhongdashuishouweifaanjian",
+   "name": "重大税收违法案件当事人名单查询_信用中国",
+   "url": "https://www.creditchina.gov.cn/zhuanxiangchaxun/zhongdashuishouweifaanjian/",
+   "host": "creditchina.gov.cn",
+   "family": "credit_china_column",
+   "path_markers": [],
+   "title_keywords": [
+    "重大税收违法案件当事人名单查询"
+   ],
+   "registration": "from_documents",
+   "legacy_coords_available": true,
+   "verification": {
+    "located": 0,
+    "valued": 0,
+    "judged": 0,
+    "samples": 0,
+    "positives": 0,
+    "negatives": 0,
+    "status": "unverified"
+   }
+  },
+  "csrc.gov.cn": {
+   "key": "csrc.gov.cn",
+   "name": "证监会",
+   "url": "http://www.csrc.gov.cn/",
+   "host": "csrc.gov.cn",
+   "family": "site_query",
+   "path_markers": [],
+   "title_keywords": [],
+   "registration": "from_documents",
+   "legacy_coords_available": true,
+   "verification": {
+    "located": 0,
+    "valued": 0,
+    "judged": 0,
+    "samples": 0,
+    "positives": 0,
+    "negatives": 0,
+    "status": "unverified"
+   }
+  },
+  "csrc.gov.cn/guangdong/c104531/zfxxgk_zdgk.shtml": {
+   "key": "csrc.gov.cn/guangdong/c104531/zfxxgk_zdgk.shtml",
+   "name": "广东证监局",
+   "url": "http://www.csrc.gov.cn/guangdong/c104531/zfxxgk_zdgk.shtml?tab=zdgkml",
+   "host": "csrc.gov.cn",
+   "family": "site_query",
+   "path_markers": [],
+   "title_keywords": [],
+   "registration": "from_documents",
+   "legacy_coords_available": true,
+   "verification": {
+    "located": 0,
+    "valued": 0,
+    "judged": 0,
+    "samples": 0,
+    "positives": 0,
+    "negatives": 0,
+    "status": "unverified"
+   }
+  },
+  "csrc.gov.cn/pub/zjhpublic/index.htm": {
+   "key": "csrc.gov.cn/pub/zjhpublic/index.htm",
+   "name": "证监会监管信息公开目录",
+   "url": "http://www.csrc.gov.cn/pub/zjhpublic/index.htm?channel=3300/3313",
+   "host": "csrc.gov.cn",
+   "family": "site_query",
+   "path_markers": [],
+   "title_keywords": [],
+   "registration": "from_documents",
+   "legacy_coords_available": true,
+   "verification": {
+    "located": 0,
+    "valued": 0,
+    "judged": 0,
+    "samples": 0,
+    "positives": 0,
+    "negatives": 0,
+    "status": "unverified"
+   }
+  },
+  "customs.gov.cn": {
+   "key": "customs.gov.cn",
+   "name": "中国海关总署",
+   "url": "http://www.customs.gov.cn/",
+   "host": "customs.gov.cn",
+   "family": "site_query",
+   "path_markers": [],
+   "title_keywords": [],
+   "registration": "from_documents",
+   "legacy_coords_available": true,
+   "verification": {
+    "located": 0,
+    "valued": 0,
+    "judged": 0,
+    "samples": 0,
+    "positives": 0,
+    "negatives": 0,
+    "status": "unverified"
+   }
+  },
+  "fangchan.com": {
+   "key": "fangchan.com",
+   "name": "中国房地产业协会",
+   "url": "http://www.fangchan.com/",
+   "host": "fangchan.com",
+   "family": "site_query",
+   "path_markers": [],
+   "title_keywords": [],
+   "registration": "from_documents",
+   "legacy_coords_available": true,
+   "verification": {
+    "located": 0,
+    "valued": 0,
+    "judged": 0,
+    "samples": 0,
+    "positives": 0,
+    "negatives": 0,
+    "status": "unverified"
+   }
+  },
+  "gd.gov.cn": {
+   "key": "gd.gov.cn",
+   "name": "广东省人民政府",
+   "url": "https://www.gd.gov.cn/",
+   "host": "gd.gov.cn",
+   "family": "site_query",
+   "path_markers": [],
+   "title_keywords": [],
+   "registration": "from_documents",
+   "legacy_coords_available": true,
+   "verification": {
+    "located": 0,
+    "valued": 0,
+    "judged": 0,
+    "samples": 0,
+    "positives": 0,
+    "negatives": 0,
+    "status": "unverified"
+   }
+  },
+  "gd.jcy.gov.cn": {
+   "key": "gd.jcy.gov.cn",
+   "name": "广东省人民检察院",
+   "url": "http://www.gd.jcy.gov.cn/",
+   "host": "gd.jcy.gov.cn",
+   "family": "site_query",
+   "path_markers": [],
+   "title_keywords": [],
+   "registration": "from_documents",
+   "legacy_coords_available": true,
+   "verification": {
+    "located": 0,
+    "valued": 0,
+    "judged": 0,
+    "samples": 0,
+    "positives": 0,
+    "negatives": 0,
+    "status": "unverified"
+   }
+  },
+  "gdcourts.gov.cn": {
+   "key": "gdcourts.gov.cn",
+   "name": "广东法院网",
+   "url": "http://www.gdcourts.gov.cn/",
+   "host": "gdcourts.gov.cn",
+   "family": "site_query",
+   "path_markers": [],
+   "title_keywords": [],
+   "registration": "from_documents",
+   "legacy_coords_available": true,
+   "verification": {
+    "located": 0,
+    "valued": 0,
+    "judged": 0,
+    "samples": 0,
+    "positives": 0,
+    "negatives": 0,
+    "status": "unverified"
+   }
+  },
+  "gdee.gd.gov.cn": {
+   "key": "gdee.gd.gov.cn",
+   "name": "广东省生态环境厅",
+   "url": "https://gdee.gd.gov.cn/",
+   "host": "gdee.gd.gov.cn",
+   "family": "site_query",
+   "path_markers": [],
+   "title_keywords": [],
+   "registration": "from_documents",
+   "legacy_coords_available": true,
+   "verification": {
+    "located": 0,
+    "valued": 0,
+    "judged": 0,
+    "samples": 0,
+    "positives": 0,
+    "negatives": 0,
+    "status": "unverified"
+   }
+  },
+  "gdjct.gd.gov.cn": {
+   "key": "gdjct.gd.gov.cn",
+   "name": "广东纪律检查委员会",
+   "url": "http://www.gdjct.gd.gov.cn/",
+   "host": "gdjct.gd.gov.cn",
+   "family": "site_query",
+   "path_markers": [],
+   "title_keywords": [],
+   "registration": "from_documents",
+   "legacy_coords_available": true,
+   "verification": {
+    "located": 0,
+    "valued": 0,
+    "judged": 0,
+    "samples": 0,
+    "positives": 0,
+    "negatives": 0,
+    "status": "unverified"
+   }
+  },
+  "ggzy.gov.cn": {
+   "key": "ggzy.gov.cn",
+   "name": "全国资源公共交易平台",
+   "url": "http://www.ggzy.gov.cn",
+   "host": "ggzy.gov.cn",
+   "family": "site_query",
+   "path_markers": [],
+   "title_keywords": [],
+   "registration": "from_documents",
+   "legacy_coords_available": true,
+   "verification": {
+    "located": 0,
+    "valued": 0,
+    "judged": 0,
+    "samples": 0,
+    "positives": 0,
+    "negatives": 0,
+    "status": "unverified"
+   }
+  },
+  "guangdong.chinatax.gov.cn/gdsw/index.shtml": {
+   "key": "guangdong.chinatax.gov.cn/gdsw/index.shtml",
+   "name": "国家税务总局广东省税务局",
+   "url": "http://guangdong.chinatax.gov.cn/gdsw/index.shtml",
+   "host": "guangdong.chinatax.gov.cn",
+   "family": "site_query",
+   "path_markers": [],
+   "title_keywords": [],
+   "registration": "from_documents",
+   "legacy_coords_available": true,
+   "verification": {
+    "located": 0,
+    "valued": 0,
+    "judged": 0,
+    "samples": 0,
+    "positives": 0,
+    "negatives": 0,
+    "status": "unverified"
+   }
+  },
+  "guangdong.chinatax.gov.cn/siteapps/webpage/gdtax/zdsswfaj/index.jsp": {
+   "key": "guangdong.chinatax.gov.cn/siteapps/webpage/gdtax/zdsswfaj/index.jsp",
+   "name": "国家税务局重大税收违法案件信息公布栏_广东",
+   "url": "http://guangdong.chinatax.gov.cn/siteapps/webpage/gdtax/zdsswfaj/index.jsp",
+   "host": "guangdong.chinatax.gov.cn",
+   "family": "site_query",
+   "path_markers": [],
+   "title_keywords": [],
+   "registration": "from_documents",
+   "legacy_coords_available": true,
+   "verification": {
+    "located": 0,
+    "valued": 0,
+    "judged": 0,
+    "samples": 0,
+    "positives": 0,
+    "negatives": 0,
+    "status": "unverified"
+   }
+  },
+  "iachina.cn": {
+   "key": "iachina.cn",
+   "name": "中国保险业协会",
+   "url": "https://www.iachina.cn/",
+   "host": "iachina.cn",
+   "family": "site_query",
+   "path_markers": [],
+   "title_keywords": [],
+   "registration": "from_documents",
+   "legacy_coords_available": true,
+   "verification": {
+    "located": 0,
+    "valued": 0,
+    "judged": 0,
+    "samples": 0,
+    "positives": 0,
+    "negatives": 0,
+    "status": "unverified"
+   }
+  },
+  "mee.gov.cn": {
+   "key": "mee.gov.cn",
+   "name": "生态环境部",
+   "url": "http://www.mee.gov.cn/",
+   "host": "mee.gov.cn",
+   "family": "site_query",
+   "path_markers": [],
+   "title_keywords": [],
+   "registration": "from_documents",
+   "legacy_coords_available": true,
+   "verification": {
+    "located": 0,
+    "valued": 0,
+    "judged": 0,
+    "samples": 0,
+    "positives": 0,
+    "negatives": 0,
+    "status": "unverified"
+   }
+  },
+  "mem.gov.cn": {
+   "key": "mem.gov.cn",
+   "name": "应急管理部",
+   "url": "https://www.mem.gov.cn/",
+   "host": "mem.gov.cn",
+   "family": "site_query",
+   "path_markers": [],
+   "title_keywords": [],
+   "registration": "from_documents",
+   "legacy_coords_available": true,
+   "verification": {
+    "located": 0,
+    "valued": 0,
+    "judged": 0,
+    "samples": 0,
+    "positives": 0,
+    "negatives": 0,
+    "status": "unverified"
+   }
+  },
+  "miit.gov.cn": {
+   "key": "miit.gov.cn",
+   "name": "工业和信息化部",
+   "url": "http://www.miit.gov.cn/",
+   "host": "miit.gov.cn",
+   "family": "site_query",
+   "path_markers": [],
+   "title_keywords": [],
+   "registration": "from_documents",
+   "legacy_coords_available": true,
+   "verification": {
+    "located": 0,
+    "valued": 0,
+    "judged": 0,
+    "samples": 0,
+    "positives": 0,
+    "negatives": 0,
+    "status": "unverified"
+   }
+  },
+  "mnr.gov.cn": {
+   "key": "mnr.gov.cn",
+   "name": "自然资源部",
+   "url": "https://www.mnr.gov.cn/",
+   "host": "mnr.gov.cn",
+   "family": "site_query",
+   "path_markers": [],
+   "title_keywords": [],
+   "registration": "from_documents",
+   "legacy_coords_available": true,
+   "verification": {
+    "located": 0,
+    "valued": 0,
+    "judged": 0,
+    "samples": 0,
+    "positives": 0,
+    "negatives": 0,
+    "status": "unverified"
+   }
+  },
+  "moa.gov.cn": {
+   "key": "moa.gov.cn",
+   "name": "国家农业部",
+   "url": "http://www.moa.gov.cn/",
+   "host": "moa.gov.cn",
+   "family": "site_query",
+   "path_markers": [],
+   "title_keywords": [],
+   "registration": "from_documents",
+   "legacy_coords_available": true,
+   "verification": {
+    "located": 0,
+    "valued": 0,
+    "judged": 0,
+    "samples": 0,
+    "positives": 0,
+    "negatives": 0,
+    "status": "unverified"
+   }
+  },
+  "mof.gov.cn": {
+   "key": "mof.gov.cn",
+   "name": "国家财政部",
+   "url": "http://www.mof.gov.cn/index.htm",
+   "host": "mof.gov.cn",
+   "family": "site_query",
+   "path_markers": [],
+   "title_keywords": [],
+   "registration": "from_documents",
+   "legacy_coords_available": true,
+   "verification": {
+    "located": 0,
+    "valued": 0,
+    "judged": 0,
+    "samples": 0,
+    "positives": 0,
+    "negatives": 0,
+    "status": "unverified"
+   }
+  },
+  "mofcom.gov.cn": {
+   "key": "mofcom.gov.cn",
+   "name": "国家商务部",
+   "url": "http://www.mofcom.gov.cn/",
+   "host": "mofcom.gov.cn",
+   "family": "site_query",
+   "path_markers": [],
+   "title_keywords": [],
+   "registration": "from_documents",
+   "legacy_coords_available": true,
+   "verification": {
+    "located": 0,
+    "valued": 0,
+    "judged": 0,
+    "samples": 0,
+    "positives": 0,
+    "negatives": 0,
+    "status": "unverified"
+   }
+  },
+  "mohrss.gov.cn": {
+   "key": "mohrss.gov.cn",
+   "name": "中华人民共和国人力资源和社会保障部",
+   "url": "https://www.mohrss.gov.cn/",
+   "host": "mohrss.gov.cn",
+   "family": "site_query",
+   "path_markers": [],
+   "title_keywords": [],
+   "registration": "from_documents",
+   "legacy_coords_available": true,
+   "verification": {
+    "located": 0,
+    "valued": 0,
+    "judged": 0,
+    "samples": 0,
+    "positives": 0,
+    "negatives": 0,
+    "status": "unverified"
+   }
+  },
+  "mohurd.gov.cn": {
+   "key": "mohurd.gov.cn",
+   "name": "住房和城乡建设部",
+   "url": "http://www.mohurd.gov.cn/",
+   "host": "mohurd.gov.cn",
+   "family": "site_query",
+   "path_markers": [],
+   "title_keywords": [],
+   "registration": "from_documents",
+   "legacy_coords_available": true,
+   "verification": {
+    "located": 0,
+    "valued": 0,
+    "judged": 0,
+    "samples": 0,
+    "positives": 0,
+    "negatives": 0,
+    "status": "unverified"
+   }
+  },
+  "mps.gov.cn": {
+   "key": "mps.gov.cn",
+   "name": "中华人民共和国公安部",
+   "url": "https://www.mps.gov.cn/",
+   "host": "mps.gov.cn",
+   "family": "site_query",
+   "path_markers": [],
+   "title_keywords": [],
+   "registration": "from_documents",
+   "legacy_coords_available": true,
+   "verification": {
+    "located": 0,
+    "valued": 0,
+    "judged": 0,
+    "samples": 0,
+    "positives": 0,
+    "negatives": 0,
+    "status": "unverified"
+   }
+  },
+  "ncac.gov.cn": {
+   "key": "ncac.gov.cn",
+   "name": "国家版权局",
+   "url": "http://www.ncac.gov.cn",
+   "host": "ncac.gov.cn",
+   "family": "site_query",
+   "path_markers": [],
+   "title_keywords": [],
+   "registration": "from_documents",
+   "legacy_coords_available": true,
+   "verification": {
+    "located": 0,
+    "valued": 0,
+    "judged": 0,
+    "samples": 0,
+    "positives": 0,
+    "negatives": 0,
+    "status": "unverified"
+   }
+  },
+  "ndrc.gov.cn": {
+   "key": "ndrc.gov.cn",
+   "name": "国家发展和改革委员会",
+   "url": "https://www.ndrc.gov.cn/",
+   "host": "ndrc.gov.cn",
+   "family": "site_query",
+   "path_markers": [],
+   "title_keywords": [],
+   "registration": "from_documents",
+   "legacy_coords_available": true,
+   "verification": {
+    "located": 0,
+    "valued": 0,
+    "judged": 0,
+    "samples": 0,
+    "positives": 0,
+    "negatives": 0,
+    "status": "unverified"
+   }
+  },
+  "nea.gov.cn": {
+   "key": "nea.gov.cn",
+   "name": "国家能源局",
+   "url": "http://www.nea.gov.cn/",
+   "host": "nea.gov.cn",
+   "family": "site_query",
+   "path_markers": [],
+   "title_keywords": [],
+   "registration": "from_documents",
+   "legacy_coords_available": true,
+   "verification": {
+    "located": 0,
+    "valued": 0,
+    "judged": 0,
+    "samples": 0,
+    "positives": 0,
+    "negatives": 0,
+    "status": "unverified"
+   }
+  },
+  "neeq.cc": {
+   "key": "neeq.cc",
+   "name": "股转公司网站",
+   "url": "https://www.neeq.cc/",
+   "host": "neeq.cc",
+   "family": "exchange_table",
+   "path_markers": [],
+   "title_keywords": [],
+   "registration": "from_documents",
+   "legacy_coords_available": true,
+   "verification": {
+    "located": 0,
+    "valued": 0,
+    "judged": 0,
+    "samples": 0,
+    "positives": 0,
+    "negatives": 0,
+    "status": "unverified"
+   }
+  },
+  "neris.csrc.gov.cn/shixinchaxun": {
+   "key": "neris.csrc.gov.cn/shixinchaxun",
+   "name": "证券期货市场失信记录查询平台",
+   "url": "https://neris.csrc.gov.cn/shixinchaxun/",
+   "host": "neris.csrc.gov.cn",
+   "family": "site_query",
+   "path_markers": [],
+   "title_keywords": [],
+   "registration": "from_documents",
+   "legacy_coords_available": true,
+   "verification": {
+    "located": 0,
+    "valued": 0,
+    "judged": 0,
+    "samples": 0,
+    "positives": 0,
+    "negatives": 0,
+    "status": "unverified"
+   }
+  },
+  "nfra.gov.cn/cn/view/pages/index/index.html": {
+   "key": "nfra.gov.cn/cn/view/pages/index/index.html",
+   "name": "国家金融监督管理总局",
+   "url": "https://www.nfra.gov.cn/cn/view/pages/index/index.html",
+   "host": "nfra.gov.cn",
+   "family": "site_query",
+   "path_markers": [],
+   "title_keywords": [],
+   "registration": "from_documents",
+   "legacy_coords_available": true,
+   "verification": {
+    "located": 0,
+    "valued": 0,
+    "judged": 0,
+    "samples": 0,
+    "positives": 0,
+    "negatives": 0,
+    "status": "unverified"
+   }
+  },
+  "nmpa.gov.cn": {
+   "key": "nmpa.gov.cn",
+   "name": "国家药品监督管理局",
+   "url": "https://www.nmpa.gov.cn/",
+   "host": "nmpa.gov.cn",
+   "family": "site_query",
+   "path_markers": [],
+   "title_keywords": [],
+   "registration": "from_documents",
+   "legacy_coords_available": true,
+   "verification": {
+    "located": 0,
+    "valued": 0,
+    "judged": 0,
+    "samples": 0,
+    "positives": 0,
+    "negatives": 0,
+    "status": "unverified"
+   }
+  },
+  "ocpe.com.cn": {
+   "key": "ocpe.com.cn",
+   "name": "国家能源网",
+   "url": "http://www.ocpe.com.cn/",
+   "host": "ocpe.com.cn",
+   "family": "site_query",
+   "path_markers": [],
+   "title_keywords": [],
+   "registration": "from_documents",
+   "legacy_coords_available": true,
+   "verification": {
+    "located": 0,
+    "valued": 0,
+    "judged": 0,
+    "samples": 0,
+    "positives": 0,
+    "negatives": 0,
+    "status": "unverified"
+   }
+  },
+  "pbccrc.org.cn": {
+   "key": "pbccrc.org.cn",
+   "name": "动产融资统一登记公示系统",
+   "url": "https://www.pbccrc.org.cn/",
+   "host": "pbccrc.org.cn",
+   "family": "site_query",
+   "path_markers": [],
+   "title_keywords": [],
+   "registration": "from_documents",
+   "legacy_coords_available": true,
+   "verification": {
+    "located": 0,
+    "valued": 0,
+    "judged": 0,
+    "samples": 0,
+    "positives": 0,
+    "negatives": 0,
+    "status": "unverified"
+   }
+  },
+  "pccz.court.gov.cn/pcajxxw/index/xxwsy": {
+   "key": "pccz.court.gov.cn/pcajxxw/index/xxwsy",
+   "name": "全国企业破产重整案件信息网",
+   "url": "http://pccz.court.gov.cn/pcajxxw/index/xxwsy",
+   "host": "pccz.court.gov.cn",
+   "family": "site_query",
+   "path_markers": [],
+   "title_keywords": [],
+   "registration": "from_documents",
+   "legacy_coords_available": true,
+   "verification": {
+    "located": 0,
+    "valued": 0,
+    "judged": 0,
+    "samples": 0,
+    "positives": 0,
+    "negatives": 0,
+    "status": "unverified"
+   }
+  },
+  "rmfygg.court.gov.cn": {
+   "key": "rmfygg.court.gov.cn",
+   "name": "人民法院公告网",
+   "url": "https://rmfygg.court.gov.cn/",
+   "host": "rmfygg.court.gov.cn",
+   "family": "site_query",
+   "path_markers": [],
+   "title_keywords": [],
+   "registration": "from_documents",
+   "legacy_coords_available": true,
+   "verification": {
+    "located": 0,
+    "valued": 0,
+    "judged": 0,
+    "samples": 0,
+    "positives": 0,
+    "negatives": 0,
+    "status": "unverified"
+   }
+  },
+  "rmfysszc.gov.cn": {
+   "key": "rmfysszc.gov.cn",
+   "name": "人民法院诉讼资产网(工作公示)",
+   "url": "https://www.rmfysszc.gov.cn/",
+   "host": "rmfysszc.gov.cn",
+   "family": "site_query",
+   "path_markers": [],
+   "title_keywords": [],
+   "registration": "from_documents",
+   "legacy_coords_available": true,
+   "verification": {
+    "located": 0,
+    "valued": 0,
+    "judged": 0,
+    "samples": 0,
+    "positives": 0,
+    "negatives": 0,
+    "status": "unverified"
+   }
+  },
+  "safe.gov.cn/www/illegal": {
+   "key": "safe.gov.cn/www/illegal",
+   "name": "国家外汇管理局",
+   "url": "https://www.safe.gov.cn/www/illegal?siteid=safe",
+   "host": "safe.gov.cn",
+   "family": "site_query",
+   "path_markers": [],
+   "title_keywords": [],
+   "registration": "from_documents",
+   "legacy_coords_available": true,
+   "verification": {
+    "located": 0,
+    "valued": 0,
+    "judged": 0,
+    "samples": 0,
+    "positives": 0,
+    "negatives": 0,
+    "status": "unverified"
+   }
+  },
+  "samr.gov.cn": {
+   "key": "samr.gov.cn",
+   "name": "国家市场监督管理总局",
+   "url": "https://www.samr.gov.cn/",
+   "host": "samr.gov.cn",
+   "family": "site_query",
+   "path_markers": [],
+   "title_keywords": [],
+   "registration": "from_documents",
+   "legacy_coords_available": true,
+   "verification": {
+    "located": 0,
+    "valued": 0,
+    "judged": 0,
+    "samples": 0,
+    "positives": 0,
+    "negatives": 0,
+    "status": "unverified"
+   }
+  },
+  "sbj.cnipa.gov.cn/sbj/index.html": {
+   "key": "sbj.cnipa.gov.cn/sbj/index.html",
+   "name": "中国商标网",
+   "url": "https://sbj.cnipa.gov.cn/sbj/index.html",
+   "host": "sbj.cnipa.gov.cn",
+   "family": "site_query",
+   "path_markers": [],
+   "title_keywords": [],
+   "registration": "from_documents",
+   "legacy_coords_available": true,
+   "verification": {
+    "located": 0,
+    "valued": 0,
+    "judged": 0,
+    "samples": 0,
+    "positives": 0,
+    "negatives": 0,
+    "status": "unverified"
+   }
+  },
+  "spp.gov.cn": {
+   "key": "spp.gov.cn",
+   "name": "最高人民检查院",
+   "url": "https://www.spp.gov.cn/",
+   "host": "spp.gov.cn",
+   "family": "site_query",
+   "path_markers": [],
+   "title_keywords": [],
+   "registration": "from_documents",
+   "legacy_coords_available": true,
+   "verification": {
+    "located": 0,
+    "valued": 0,
+    "judged": 0,
+    "samples": 0,
+    "positives": 0,
+    "negatives": 0,
+    "status": "unverified"
+   }
+  },
+  "sse.com.cn": {
+   "key": "sse.com.cn",
+   "name": "上交所网站",
+   "url": "http://www.sse.com.cn/",
+   "host": "sse.com.cn",
+   "family": "exchange_table",
+   "path_markers": [],
+   "title_keywords": [],
+   "registration": "from_documents",
+   "legacy_coords_available": true,
+   "verification": {
+    "located": 0,
+    "valued": 0,
+    "judged": 0,
+    "samples": 0,
+    "positives": 0,
+    "negatives": 0,
+    "status": "unverified"
+   }
+  },
+  "sse.com.cn/disclosure/credibility/supervision/measures": {
+   "key": "sse.com.cn/disclosure/credibility/supervision/measures",
+   "name": "上交所上市公司监管措施",
+   "url": "http://www.sse.com.cn/disclosure/credibility/supervision/measures/",
+   "host": "sse.com.cn",
+   "family": "exchange_table",
+   "path_markers": [],
+   "title_keywords": [],
+   "registration": "from_documents",
+   "legacy_coords_available": true,
+   "verification": {
+    "located": 0,
+    "valued": 0,
+    "judged": 0,
+    "samples": 0,
+    "positives": 0,
+    "negatives": 0,
+    "status": "unverified"
+   }
+  },
+  "stats.gov.cn": {
+   "key": "stats.gov.cn",
+   "name": "国家统计局",
+   "url": "http://www.stats.gov.cn/",
+   "host": "stats.gov.cn",
+   "family": "site_query",
+   "path_markers": [],
+   "title_keywords": [],
+   "registration": "from_documents",
+   "legacy_coords_available": true,
+   "verification": {
+    "located": 0,
+    "valued": 0,
+    "judged": 0,
+    "samples": 0,
+    "positives": 0,
+    "negatives": 0,
+    "status": "unverified"
+   }
+  },
+  "szse.cn/disclosure/bond/measure/index.html": {
+   "key": "szse.cn/disclosure/bond/measure/index.html",
+   "name": "深交所债券监管措施",
+   "url": "http://www.szse.cn/disclosure/bond/measure/index.html",
+   "host": "szse.cn",
+   "family": "exchange_table",
+   "path_markers": [],
+   "title_keywords": [],
+   "registration": "from_documents",
+   "legacy_coords_available": true,
+   "verification": {
+    "located": 0,
+    "valued": 0,
+    "judged": 0,
+    "samples": 0,
+    "positives": 0,
+    "negatives": 0,
+    "status": "unverified"
+   }
+  },
+  "szse.cn/disclosure/bond/punish/index.html": {
+   "key": "szse.cn/disclosure/bond/punish/index.html",
+   "name": "深交所债券纪律处分",
+   "url": "http://www.szse.cn/disclosure/bond/punish/index.html",
+   "host": "szse.cn",
+   "family": "exchange_table",
+   "path_markers": [],
+   "title_keywords": [],
+   "registration": "from_documents",
+   "legacy_coords_available": true,
+   "verification": {
+    "located": 0,
+    "valued": 0,
+    "judged": 0,
+    "samples": 0,
+    "positives": 0,
+    "negatives": 0,
+    "status": "unverified"
+   }
+  },
+  "szse.cn/disclosure/listed/credit/record/index.html": {
+   "key": "szse.cn/disclosure/listed/credit/record/index.html",
+   "name": "深交所上市公司处罚与处分记录",
+   "url": "http://www.szse.cn/disclosure/listed/credit/record/index.html",
+   "host": "szse.cn",
+   "family": "exchange_table",
+   "path_markers": [],
+   "title_keywords": [],
+   "registration": "from_documents",
+   "legacy_coords_available": true,
+   "verification": {
+    "located": 0,
+    "valued": 0,
+    "judged": 0,
+    "samples": 0,
+    "positives": 0,
+    "negatives": 0,
+    "status": "unverified"
+   }
+  },
+  "szse.cn/disclosure/supervision/dynamic/index.html": {
+   "key": "szse.cn/disclosure/supervision/dynamic/index.html",
+   "name": "深交所监管动态",
+   "url": "http://www.szse.cn/disclosure/supervision/dynamic/index.html",
+   "host": "szse.cn",
+   "family": "exchange_table",
+   "path_markers": [],
+   "title_keywords": [],
+   "registration": "from_documents",
+   "legacy_coords_available": true,
+   "verification": {
+    "located": 0,
+    "valued": 0,
+    "judged": 0,
+    "samples": 0,
+    "positives": 0,
+    "negatives": 0,
+    "status": "unverified"
+   }
+  },
+  "szse.cn/disclosure/supervision/measure/decision/index.html": {
+   "key": "szse.cn/disclosure/supervision/measure/decision/index.html",
+   "name": "深交所复核决定",
+   "url": "http://www.szse.cn/disclosure/supervision/measure/decision/index.html",
+   "host": "szse.cn",
+   "family": "exchange_table",
+   "path_markers": [],
+   "title_keywords": [],
+   "registration": "from_documents",
+   "legacy_coords_available": true,
+   "verification": {
+    "located": 0,
+    "valued": 0,
+    "judged": 0,
+    "samples": 0,
+    "positives": 0,
+    "negatives": 0,
+    "status": "unverified"
+   }
+  },
+  "szse.cn/disclosure/supervision/measure/measure/index.html": {
+   "key": "szse.cn/disclosure/supervision/measure/measure/index.html",
+   "name": "深交所监管措施",
+   "url": "http://www.szse.cn/disclosure/supervision/measure/measure/index.html",
+   "host": "szse.cn",
+   "family": "exchange_table",
+   "path_markers": [],
+   "title_keywords": [],
+   "registration": "from_documents",
+   "legacy_coords_available": true,
+   "verification": {
+    "located": 0,
+    "valued": 0,
+    "judged": 0,
+    "samples": 0,
+    "positives": 0,
+    "negatives": 0,
+    "status": "unverified"
+   }
+  },
+  "szse.cn/disclosure/supervision/measure/pushish/index.html": {
+   "key": "szse.cn/disclosure/supervision/measure/pushish/index.html",
+   "name": "深交所纪律处分",
+   "url": "http://www.szse.cn/disclosure/supervision/measure/pushish/index.html",
+   "host": "szse.cn",
+   "family": "exchange_table",
+   "path_markers": [],
+   "title_keywords": [],
+   "registration": "from_documents",
+   "legacy_coords_available": true,
+   "verification": {
+    "located": 0,
+    "valued": 0,
+    "judged": 0,
+    "samples": 0,
+    "positives": 0,
+    "negatives": 0,
+    "status": "unverified"
+   }
+  },
+  "szse.cn/disclosure/supervision/promise/index.html": {
+   "key": "szse.cn/disclosure/supervision/promise/index.html",
+   "name": "深交所承诺事项及履行情况",
+   "url": "http://www.szse.cn/disclosure/supervision/promise/index.html",
+   "host": "szse.cn",
+   "family": "exchange_table",
+   "path_markers": [],
+   "title_keywords": [],
+   "registration": "from_documents",
+   "legacy_coords_available": true,
+   "verification": {
+    "located": 0,
+    "valued": 0,
+    "judged": 0,
+    "samples": 0,
+    "positives": 0,
+    "negatives": 0,
+    "status": "unverified"
+   }
+  },
+  "szse.cn/disclosure/supervision/supervise/index.html": {
+   "key": "szse.cn/disclosure/supervision/supervise/index.html",
+   "name": "深交所中介机构监管",
+   "url": "http://www.szse.cn/disclosure/supervision/supervise/index.html",
+   "host": "szse.cn",
+   "family": "exchange_table",
+   "path_markers": [],
+   "title_keywords": [],
+   "registration": "from_documents",
+   "legacy_coords_available": true,
+   "verification": {
+    "located": 0,
+    "valued": 0,
+    "judged": 0,
+    "samples": 0,
+    "positives": 0,
+    "negatives": 0,
+    "status": "unverified"
+   }
+  },
+  "szse.cn/disclosure/supervision/transaction/case/index.html": {
+   "key": "szse.cn/disclosure/supervision/transaction/case/index.html",
+   "name": "深交所交易监管_监管案例",
+   "url": "http://www.szse.cn/disclosure/supervision/transaction/case/index.html",
+   "host": "szse.cn",
+   "family": "exchange_table",
+   "path_markers": [],
+   "title_keywords": [],
+   "registration": "from_documents",
+   "legacy_coords_available": true,
+   "verification": {
+    "located": 0,
+    "valued": 0,
+    "judged": 0,
+    "samples": 0,
+    "positives": 0,
+    "negatives": 0,
+    "status": "unverified"
+   }
+  },
+  "szse.cn/disclosure/supervision/transaction/restrict/index.html": {
+   "key": "szse.cn/disclosure/supervision/transaction/restrict/index.html",
+   "name": "深交所交易监管_限制交易",
+   "url": "http://www.szse.cn/disclosure/supervision/transaction/restrict/index.html",
+   "host": "szse.cn",
+   "family": "exchange_table",
+   "path_markers": [],
+   "title_keywords": [],
+   "registration": "from_documents",
+   "legacy_coords_available": true,
+   "verification": {
+    "located": 0,
+    "valued": 0,
+    "judged": 0,
+    "samples": 0,
+    "positives": 0,
+    "negatives": 0,
+    "status": "unverified"
+   }
+  },
+  "szse.cn/index/index.html": {
+   "key": "szse.cn/index/index.html",
+   "name": "深交所网站",
+   "url": "http://www.szse.cn/index/index.html",
+   "host": "szse.cn",
+   "family": "exchange_table",
+   "path_markers": [],
+   "title_keywords": [],
+   "registration": "from_documents",
+   "legacy_coords_available": true,
+   "verification": {
+    "located": 0,
+    "valued": 0,
+    "judged": 0,
+    "samples": 0,
+    "positives": 0,
+    "negatives": 0,
+    "status": "unverified"
+   }
+  },
+  "xyny.nea.gov.cn/main": {
+   "key": "xyny.nea.gov.cn/main",
+   "name": "信用能源",
+   "url": "http://xyny.nea.gov.cn/main",
+   "host": "xyny.nea.gov.cn",
+   "family": "site_query",
+   "path_markers": [],
+   "title_keywords": [],
+   "registration": "from_documents",
+   "legacy_coords_available": true,
+   "verification": {
+    "located": 0,
+    "valued": 0,
+    "judged": 0,
+    "samples": 0,
+    "positives": 0,
+    "negatives": 0,
+    "status": "unverified"
+   }
+  },
+  "yan.bcpcn.com/website/index.jsp": {
+   "key": "yan.bcpcn.com/website/index.jsp",
+   "name": "盐行业信用管理与公共服务平台",
+   "url": "http://yan.bcpcn.com/website/index.jsp",
+   "host": "yan.bcpcn.com",
+   "family": "site_query",
+   "path_markers": [],
+   "title_keywords": [],
+   "registration": "from_documents",
+   "legacy_coords_available": true,
+   "verification": {
+    "located": 0,
+    "valued": 0,
+    "judged": 0,
+    "samples": 0,
+    "positives": 0,
+    "negatives": 0,
+    "status": "unverified"
+   }
+  },
+  "zxgk.court.gov.cn/shixin": {
+   "key": "zxgk.court.gov.cn/shixin",
+   "name": "全国法院失信被执行人名单信息查询系统",
+   "url": "https://zxgk.court.gov.cn/shixin/",
+   "host": "zxgk.court.gov.cn",
+   "family": "court_query",
+   "path_markers": [],
+   "title_keywords": [
+    "失信被执行人",
+    "被执行人"
+   ],
+   "registration": "from_documents",
+   "legacy_coords_available": true,
+   "verification": {
+    "located": 0,
+    "valued": 0,
+    "judged": 0,
+    "samples": 0,
+    "positives": 0,
+    "negatives": 0,
+    "status": "unverified"
+   }
+  },
+  "zxgk.court.gov.cn/zhixing": {
+   "key": "zxgk.court.gov.cn/zhixing",
+   "name": "全国法院被执行人信息查询系统",
+   "url": "https://zxgk.court.gov.cn/zhixing/",
+   "host": "zxgk.court.gov.cn",
+   "family": "court_query",
+   "path_markers": [],
+   "title_keywords": [
+    "被执行人"
+   ],
+   "registration": "from_documents",
+   "legacy_coords_available": true,
+   "verification": {
+    "located": 0,
+    "valued": 0,
+    "judged": 0,
+    "samples": 0,
+    "positives": 0,
+    "negatives": 0,
+    "status": "unverified"
+   }
+  },
+  "zxgk.court.gov.cn/zhzxgk": {
+   "key": "zxgk.court.gov.cn/zhzxgk",
+   "name": "全国法院信息综合查询被执行人",
+   "url": "https://zxgk.court.gov.cn/zhzxgk/",
+   "host": "zxgk.court.gov.cn",
+   "family": "court_query",
+   "path_markers": [],
+   "title_keywords": [
+    "被执行人"
+   ],
+   "registration": "from_documents",
+   "legacy_coords_available": true,
+   "verification": {
+    "located": 0,
+    "valued": 0,
+    "judged": 0,
+    "samples": 0,
+    "positives": 0,
+    "negatives": 0,
+    "status": "unverified"
+   }
+  },
+  "人民法院诉讼资产网(拍卖项目)|rmfysszc.gov.cn": {
+   "key": "人民法院诉讼资产网(拍卖项目)|rmfysszc.gov.cn",
+   "name": "人民法院诉讼资产网(拍卖项目)",
+   "url": "https://www.rmfysszc.gov.cn/",
+   "host": "rmfysszc.gov.cn",
+   "family": "site_query",
+   "path_markers": [],
+   "title_keywords": [],
+   "registration": "one_to_one_column_map",
+   "legacy_coords_available": true,
+   "verification": {
+    "located": 0,
+    "valued": 0,
+    "judged": 0,
+    "samples": 0,
+    "positives": 0,
+    "negatives": 0,
+    "status": "unverified"
+   }
+  }
+ },
+ "source": "site/column registry; no historical task filename or verdict metadata"
+}

@@ -1,0 +1,3769 @@
+{
+  "schema": "column-local-registration-20260916-r8",
+  "coordinate_system": "normalized_xyxy_original_image",
+  "purpose": "geometry_only_not_verdicts",
+  "columns": {
+    "人民检察院案件信息公开网|12309.gov.cn/12309/C001/ajxxgk.html": {
+      "key": "人民检察院案件信息公开网|12309.gov.cn/12309/C001/ajxxgk.html",
+      "name": "人民检察院案件信息公开网",
+      "url": "https://www.12309.gov.cn/12309/C001/ajxxgk.html",
+      "site_id": 0,
+      "variants": [
+        {
+          "id": "00_a",
+          "query": [
+            0.397,
+            0.21,
+            0.58,
+            0.252
+          ],
+          "result": [
+            0.225,
+            0.467,
+            0.604,
+            0.963
+          ],
+          "source": "mapped_input",
+          "result_extent": "viewport",
+          "no_query_reason": null,
+          "asset": "00_a.npz",
+          "feature_size": [
+            1200,
+            675
+          ],
+          "near_region": [
+            308.40000000000003,
+            48.599999999999994,
+            864.0,
+            224.10000000000002
+          ],
+          "near_features": 225,
+          "reference_sha": "34e398378e54a9722da1048c8cb4cc4f1f7032a0ccac3d33762bc0082a99ed75",
+          "reference_size": [
+            1920,
+            1080
+          ],
+          "reference_feature_count": 446,
+          "static_preview": "00_a_static.jpg",
+          "provenance": "人工查看该栏目原始截图，仅标定区域，不标注答案"
+        }
+      ]
+    },
+    "全国行业信用公共服务平台|315-org.net": {
+      "key": "全国行业信用公共服务平台|315-org.net",
+      "name": "全国行业信用公共服务平台",
+      "url": "http://www.315-org.net/",
+      "site_id": 1,
+      "variants": [
+        {
+          "id": "01_a",
+          "query": [
+            0.532,
+            0.153,
+            0.662,
+            0.181
+          ],
+          "result": [
+            0.31,
+            0.338,
+            0.584,
+            0.79
+          ],
+          "source": "mapped_input",
+          "result_extent": "bounded",
+          "no_query_reason": null,
+          "asset": "01_a.npz",
+          "feature_size": [
+            1200,
+            675
+          ],
+          "near_region": [
+            470.40000000000003,
+            48.599999999999994,
+            962.4000000000001,
+            176.175
+          ],
+          "near_features": 165,
+          "reference_sha": "7ce2b16f9f3b0b914f3ffbf082f5b6183d9e44e1928ac8566de8443be016650c",
+          "reference_size": [
+            1920,
+            1080
+          ],
+          "reference_feature_count": 380,
+          "static_preview": "01_a_static.jpg",
+          "provenance": "人工查看该栏目原始截图，仅标定区域，不标注答案"
+        }
+      ]
+    },
+    "中国商务信用平台|bcpcn.com": {
+      "key": "中国商务信用平台|bcpcn.com",
+      "name": "中国商务信用平台",
+      "url": "https://www.bcpcn.com/",
+      "site_id": 2,
+      "variants": [
+        {
+          "id": "02_a",
+          "query": [
+            0.304,
+            0.222,
+            0.616,
+            0.252
+          ],
+          "result": [
+            0.305,
+            0.26,
+            0.612,
+            0.91
+          ],
+          "source": "mapped_input",
+          "result_extent": "viewport",
+          "no_query_reason": null,
+          "asset": "02_a.npz",
+          "feature_size": [
+            1200,
+            675
+          ],
+          "near_region": [
+            196.79999999999998,
+            48.599999999999994,
+            907.2,
+            224.10000000000002
+          ],
+          "near_features": 251,
+          "reference_sha": "b51ce116410f75b2ea7d10bbb578f06396bbb847263f5a6419530db1d1ac296e",
+          "reference_size": [
+            1920,
+            1080
+          ],
+          "reference_feature_count": 253,
+          "static_preview": "02_a_static.jpg",
+          "provenance": "人工查看该栏目原始截图，仅标定区域，不标注答案"
+        }
+      ]
+    },
+    "中国政府采购网|ccgp.gov.cn/search/cr": {
+      "key": "中国政府采购网|ccgp.gov.cn/search/cr",
+      "name": "中国政府采购网",
+      "url": "https://www.ccgp.gov.cn/search/cr/",
+      "site_id": 3,
+      "variants": [
+        {
+          "id": "03_a",
+          "query": [
+            0.289,
+            0.376,
+            0.434,
+            0.406
+          ],
+          "result": [
+            0.257,
+            0.475,
+            0.785,
+            0.66
+          ],
+          "source": "mapped_input",
+          "result_extent": "bounded",
+          "no_query_reason": null,
+          "asset": "03_a.npz",
+          "feature_size": [
+            1200,
+            675
+          ],
+          "near_region": [
+            178.79999999999995,
+            118.8,
+            688.8000000000001,
+            328.05
+          ],
+          "near_features": 298,
+          "reference_sha": "675fa3254d53e2b9badcdf8845ee65b515483155d850a3ef2b824302ae0aa91c",
+          "reference_size": [
+            1920,
+            1080
+          ],
+          "reference_feature_count": 688,
+          "static_preview": "03_a_static.jpg",
+          "provenance": "人工查看该栏目原始截图，仅标定区域，不标注答案"
+        }
+      ]
+    },
+    "中国电力企业联合会|cec.org.cn": {
+      "key": "中国电力企业联合会|cec.org.cn",
+      "name": "中国电力企业联合会",
+      "url": "https://www.cec.org.cn",
+      "site_id": 4,
+      "variants": [
+        {
+          "id": "04_a",
+          "query": [
+            0.422,
+            0.201,
+            0.574,
+            0.234
+          ],
+          "result": [
+            0.341,
+            0.224,
+            0.658,
+            0.46
+          ],
+          "source": "mapped_input",
+          "result_extent": "bounded",
+          "no_query_reason": null,
+          "asset": "04_a.npz",
+          "feature_size": [
+            1200,
+            675
+          ],
+          "near_region": [
+            338.4,
+            48.599999999999994,
+            856.8,
+            211.95
+          ],
+          "near_features": 159,
+          "reference_sha": "8e96b881265cc2f364f8cc928639c3ab0588dd2b919dc2bd8640d0eb9b4d9109",
+          "reference_size": [
+            1920,
+            1080
+          ],
+          "reference_feature_count": 159,
+          "static_preview": "04_a_static.jpg",
+          "provenance": "人工查看该栏目原始截图，仅标定区域，不标注答案"
+        }
+      ]
+    },
+    "中国电力建设企业协会|cepca.org.cn": {
+      "key": "中国电力建设企业协会|cepca.org.cn",
+      "name": "中国电力建设企业协会",
+      "url": "http://www.cepca.org.cn/",
+      "site_id": 5,
+      "variants": [
+        {
+          "id": "05_a",
+          "query": [
+            0.307,
+            0.196,
+            0.446,
+            0.231
+          ],
+          "result": [
+            0.27,
+            0.235,
+            0.61,
+            0.342
+          ],
+          "source": "query_echo",
+          "result_extent": "bounded",
+          "no_query_reason": null,
+          "asset": "05_a.npz",
+          "feature_size": [
+            1200,
+            675
+          ],
+          "near_region": [
+            200.39999999999998,
+            48.599999999999994,
+            703.2,
+            209.925
+          ],
+          "near_features": 144,
+          "reference_sha": "3249af14cc3a683f5a53e8e004709fbc10c081203d3505e8513af0684a9ebf94",
+          "reference_size": [
+            1920,
+            1080
+          ],
+          "reference_feature_count": 191,
+          "static_preview": "05_a_static.jpg",
+          "provenance": "人工查看该栏目原始截图，仅标定区域，不标注答案"
+        }
+      ]
+    },
+    "中国债券信息网|chinabond.com.cn": {
+      "key": "中国债券信息网|chinabond.com.cn",
+      "name": "中国债券信息网",
+      "url": "https://www.chinabond.com.cn/",
+      "site_id": 6,
+      "variants": [
+        {
+          "id": "06_a",
+          "query": [
+            0.385,
+            0.214,
+            0.58,
+            0.25
+          ],
+          "result": [
+            0.369,
+            0.289,
+            0.631,
+            0.819
+          ],
+          "source": "mapped_input",
+          "result_extent": "bounded",
+          "no_query_reason": null,
+          "asset": "06_a.npz",
+          "feature_size": [
+            1200,
+            675
+          ],
+          "near_region": [
+            294.0,
+            48.599999999999994,
+            864.0,
+            222.75
+          ],
+          "near_features": 52,
+          "reference_sha": "ded9fb0b19252db9d7f352dca67092a932c8d6904b9023938e4b3e95caa22982",
+          "reference_size": [
+            1920,
+            1080
+          ],
+          "reference_feature_count": 111,
+          "static_preview": "06_a_static.jpg",
+          "provenance": "人工查看该栏目原始截图，仅标定区域，不标注答案"
+        }
+      ]
+    },
+    "国家税务总局|chinatax.gov.cn": {
+      "key": "国家税务总局|chinatax.gov.cn",
+      "name": "国家税务总局",
+      "url": "http://www.chinatax.gov.cn/",
+      "site_id": 7,
+      "variants": [
+        {
+          "id": "07_a",
+          "query": [
+            0.389,
+            0.10099999999999999,
+            0.58,
+            0.14
+          ],
+          "result": [
+            0.246,
+            0.286,
+            0.6,
+            0.428
+          ],
+          "source": "mapped_input",
+          "result_extent": "bounded",
+          "no_query_reason": null,
+          "asset": "07_a.npz",
+          "feature_size": [
+            1200,
+            675
+          ],
+          "near_region": [
+            298.8,
+            48.599999999999994,
+            864.0,
+            148.50000000000003
+          ],
+          "near_features": 173,
+          "reference_sha": "45df8135b6879eb4990b7a5c0e8c08e26b6c1ee6444056e95defa2ec1cccf04b",
+          "reference_size": [
+            1920,
+            1080
+          ],
+          "reference_feature_count": 203,
+          "static_preview": "07_a_static.jpg",
+          "provenance": "人工查看该栏目原始截图，仅标定区域，不标注答案"
+        }
+      ]
+    },
+    "巨潮资讯网|cninfo.com.cn/new/index": {
+      "key": "巨潮资讯网|cninfo.com.cn/new/index",
+      "name": "巨潮资讯网",
+      "url": "http://www.cninfo.com.cn/new/index",
+      "site_id": 8,
+      "variants": [
+        {
+          "id": "08_a",
+          "query": [
+            0.166,
+            0.306,
+            0.4,
+            0.346
+          ],
+          "result": [
+            0.166,
+            0.36,
+            0.836,
+            0.584
+          ],
+          "source": "query_echo",
+          "result_extent": "bounded",
+          "no_query_reason": null,
+          "asset": "08_a.npz",
+          "feature_size": [
+            1200,
+            675
+          ],
+          "near_region": [
+            31.199999999999996,
+            71.54999999999998,
+            648.0,
+            287.55
+          ],
+          "near_features": 75,
+          "reference_sha": "e7482bf668889143e8b185a4186f6de74c1e55ec05d07b88666aea6219f224a7",
+          "reference_size": [
+            1920,
+            1080
+          ],
+          "reference_feature_count": 97,
+          "static_preview": "08_a_static.jpg",
+          "provenance": "人工查看该栏目原始截图，仅标定区域，不标注答案"
+        }
+      ]
+    },
+    "知识产权局|cnipa.gov.cn": {
+      "key": "知识产权局|cnipa.gov.cn",
+      "name": "知识产权局",
+      "url": "https://www.cnipa.gov.cn/",
+      "site_id": 9,
+      "variants": [
+        {
+          "id": "09_a",
+          "query": [
+            0.351,
+            0.274,
+            0.59,
+            0.317
+          ],
+          "result": [
+            0.282,
+            0.461,
+            0.704,
+            0.568
+          ],
+          "source": "mapped_input",
+          "result_extent": "bounded",
+          "no_query_reason": null,
+          "asset": "09_a.npz",
+          "feature_size": [
+            1200,
+            675
+          ],
+          "near_region": [
+            253.19999999999996,
+            49.95000000000001,
+            876.0,
+            267.975
+          ],
+          "near_features": 397,
+          "reference_sha": "862c50e1eb5d252a308b089f6ca0af072733b6fd64997d09c5515542325f3f28",
+          "reference_size": [
+            1920,
+            1080
+          ],
+          "reference_feature_count": 440,
+          "static_preview": "09_a_static.jpg",
+          "provenance": "人工查看该栏目原始截图，仅标定区域，不标注答案"
+        }
+      ]
+    },
+    "中国盐业协会|cnsalt.cn": {
+      "key": "中国盐业协会|cnsalt.cn",
+      "name": "中国盐业协会",
+      "url": "http://www.cnsalt.cn/",
+      "site_id": 10,
+      "variants": [
+        {
+          "id": "10_a",
+          "query": [
+            0.651,
+            0.11699999999999999,
+            0.801,
+            0.148
+          ],
+          "result": [
+            0.164,
+            0.665,
+            0.83,
+            0.962
+          ],
+          "source": "mapped_input",
+          "result_extent": "viewport",
+          "no_query_reason": null,
+          "asset": "10_a.npz",
+          "feature_size": [
+            1200,
+            675
+          ],
+          "near_region": [
+            613.2,
+            48.599999999999994,
+            1129.2,
+            153.89999999999998
+          ],
+          "near_features": 39,
+          "reference_sha": "da79e1b85a10f05719dc88dca21b3093a490c0e0cd4b2aed69f732e5b058b99f",
+          "reference_size": [
+            1920,
+            1080
+          ],
+          "reference_feature_count": 1605,
+          "static_preview": "10_a_static.jpg",
+          "provenance": "人工查看该栏目原始截图，仅标定区域，不标注答案"
+        }
+      ]
+    },
+    "中国海关企业进出口信用信息平台|credit.customs.gov.cn": {
+      "key": "中国海关企业进出口信用信息平台|credit.customs.gov.cn",
+      "name": "中国海关企业进出口信用信息平台",
+      "url": "http://credit.customs.gov.cn/",
+      "site_id": 11,
+      "variants": [
+        {
+          "id": "11_a",
+          "query": [
+            0.369,
+            0.387,
+            0.597,
+            0.425
+          ],
+          "result": [
+            0.431,
+            0.493,
+            0.573,
+            0.635
+          ],
+          "source": "mapped_input",
+          "result_extent": "bounded",
+          "no_query_reason": null,
+          "asset": "11_a.npz",
+          "feature_size": [
+            1200,
+            780
+          ],
+          "near_region": [
+            274.79999999999995,
+            145.86,
+            884.4,
+            393.9
+          ],
+          "near_features": 36,
+          "reference_sha": "b5ca58183eaadc8bdb7a07c224561cbabcf7d972bd02a1a5e9538b2c7f3ea45c",
+          "reference_size": [
+            1264,
+            822
+          ],
+          "reference_feature_count": 438,
+          "static_preview": "11_a_static.jpg",
+          "provenance": "人工查看该栏目原始截图，仅标定区域，不标注答案"
+        }
+      ]
+    },
+    "信用中国企业详情|creditchina.gov.cn": {
+      "key": "信用中国企业详情|creditchina.gov.cn",
+      "name": "信用中国企业详情",
+      "url": "https://www.creditchina.gov.cn/",
+      "site_id": 12,
+      "variants": [
+        {
+          "id": "12_a",
+          "query": [
+            0.191,
+            0.175,
+            0.392,
+            0.212
+          ],
+          "result": [
+            0.19,
+            0.513,
+            0.811,
+            0.746
+          ],
+          "source": "detail_identity",
+          "result_extent": "bounded",
+          "no_query_reason": null,
+          "asset": "12_a.npz",
+          "feature_size": [
+            1200,
+            1205
+          ],
+          "near_region": [
+            61.19999999999999,
+            0,
+            638.4000000000001,
+            351.85999999999996
+          ],
+          "near_features": 629,
+          "reference_sha": "65148537909475c558e9bd63d3a5af2d288c5f97b6609a36d8ae662f7ddef72e",
+          "reference_size": [
+            1920,
+            1928
+          ],
+          "reference_feature_count": 1401,
+          "static_preview": "12_a_static.jpg",
+          "provenance": "人工查看该栏目原始截图，仅标定区域，不标注答案"
+        }
+      ]
+    },
+    "失信惩戒对象查询_信用中国|creditchina.gov.cn/xinxigongshi/shixinheimingdan": {
+      "key": "失信惩戒对象查询_信用中国|creditchina.gov.cn/xinxigongshi/shixinheimingdan",
+      "name": "失信惩戒对象查询_信用中国",
+      "url": "https://www.creditchina.gov.cn/xinxigongshi/shixinheimingdan/",
+      "site_id": 13,
+      "variants": [
+        {
+          "id": "13_a",
+          "query": [
+            0.339,
+            0.518,
+            0.611,
+            0.561
+          ],
+          "result": [
+            0.19,
+            0.608,
+            0.809,
+            0.733
+          ],
+          "source": "mapped_input",
+          "result_extent": "bounded",
+          "no_query_reason": null,
+          "asset": "13_a.npz",
+          "feature_size": [
+            1200,
+            675
+          ],
+          "near_region": [
+            238.8,
+            214.65,
+            901.2,
+            432.675
+          ],
+          "near_features": 126,
+          "reference_sha": "0b1766963a1052a1e9ffa9e4d294215cb332dc2825af9b2f6222b341e58bd86d",
+          "reference_size": [
+            1920,
+            1080
+          ],
+          "reference_feature_count": 648,
+          "static_preview": "13_a_static.jpg",
+          "provenance": "人工查看该栏目原始截图，仅标定区域，不标注答案"
+        }
+      ]
+    },
+    "信用中国经营异常名录信息|creditchina.gov.cn/xinxigongshi/zhongdianguanzhushixinmingdan": {
+      "key": "信用中国经营异常名录信息|creditchina.gov.cn/xinxigongshi/zhongdianguanzhushixinmingdan",
+      "name": "信用中国经营异常名录信息",
+      "url": "https://www.creditchina.gov.cn/xinxigongshi/zhongdianguanzhushixinmingdan/",
+      "site_id": 14,
+      "variants": [
+        {
+          "id": "14_a",
+          "query": [
+            0.339,
+            0.518,
+            0.611,
+            0.561
+          ],
+          "result": [
+            0.19,
+            0.699,
+            0.809,
+            0.963
+          ],
+          "source": "mapped_input",
+          "result_extent": "viewport",
+          "no_query_reason": null,
+          "asset": "14_a.npz",
+          "feature_size": [
+            1200,
+            675
+          ],
+          "near_region": [
+            238.8,
+            214.65,
+            901.2,
+            432.675
+          ],
+          "near_features": 149,
+          "reference_sha": "9cb3348aaaa31e9acae60934d7aa22bd723ed8bed0c196e95995e8cdc57d513f",
+          "reference_size": [
+            1920,
+            1080
+          ],
+          "reference_feature_count": 686,
+          "static_preview": "14_a_static.jpg",
+          "provenance": "人工查看该栏目原始截图，仅标定区域，不标注答案"
+        }
+      ]
+    },
+    "安全生产领域失信生产经营单位_信用中国|creditchina.gov.cn/zhuanxiangchaxun/aqsc": {
+      "key": "安全生产领域失信生产经营单位_信用中国|creditchina.gov.cn/zhuanxiangchaxun/aqsc",
+      "name": "安全生产领域失信生产经营单位_信用中国",
+      "url": "https://www.creditchina.gov.cn/zhuanxiangchaxun/aqsc/",
+      "site_id": 15,
+      "variants": [
+        {
+          "id": "15_a",
+          "query": [
+            0.339,
+            0.518,
+            0.611,
+            0.561
+          ],
+          "result": [
+            0.19,
+            0.699,
+            0.809,
+            0.963
+          ],
+          "source": "mapped_input",
+          "result_extent": "viewport",
+          "no_query_reason": null,
+          "asset": "15_a.npz",
+          "feature_size": [
+            1200,
+            675
+          ],
+          "near_region": [
+            238.8,
+            214.65,
+            901.2,
+            432.675
+          ],
+          "near_features": 179,
+          "reference_sha": "835a4904d035d8bbaea9079e5bcd2007327241f7dd8eb3dc31b08fb5e9e951d6",
+          "reference_size": [
+            1920,
+            1080
+          ],
+          "reference_feature_count": 716,
+          "static_preview": "15_a_static.jpg",
+          "provenance": "人工查看该栏目原始截图，仅标定区域，不标注答案"
+        }
+      ]
+    },
+    "慈善捐款领域联合惩戒对象_信用中国|creditchina.gov.cn/zhuanxiangchaxun/shzz": {
+      "key": "慈善捐款领域联合惩戒对象_信用中国|creditchina.gov.cn/zhuanxiangchaxun/shzz",
+      "name": "慈善捐款领域联合惩戒对象_信用中国",
+      "url": "https://www.creditchina.gov.cn/zhuanxiangchaxun/shzz/",
+      "site_id": 16,
+      "variants": [
+        {
+          "id": "16_a",
+          "query": [
+            0.339,
+            0.518,
+            0.611,
+            0.561
+          ],
+          "result": [
+            0.19,
+            0.699,
+            0.809,
+            0.963
+          ],
+          "source": "mapped_input",
+          "result_extent": "viewport",
+          "no_query_reason": null,
+          "asset": "16_a.npz",
+          "feature_size": [
+            1200,
+            675
+          ],
+          "near_region": [
+            238.8,
+            214.65,
+            901.2,
+            432.675
+          ],
+          "near_features": 149,
+          "reference_sha": "2a521d5cd35ea2401dc3fe3ce199bd1f7f6c0f7e5590a5a3f55d1f1c0b40ed0e",
+          "reference_size": [
+            1920,
+            1080
+          ],
+          "reference_feature_count": 686,
+          "static_preview": "16_a_static.jpg",
+          "provenance": "人工查看该栏目原始截图，仅标定区域，不标注答案"
+        }
+      ]
+    },
+    "统计领域严重失信企业及其有关人员_信用中国|creditchina.gov.cn/zhuanxiangchaxun/zdlycx?tablename=credit_gjtjj_fr_tjsyzsxqy&gsName=统计严重失信企业名单": {
+      "key": "统计领域严重失信企业及其有关人员_信用中国|creditchina.gov.cn/zhuanxiangchaxun/zdlycx?tablename=credit_gjtjj_fr_tjsyzsxqy&gsName=统计严重失信企业名单",
+      "name": "统计领域严重失信企业及其有关人员_信用中国",
+      "url": "https://www.creditchina.gov.cn/zhuanxiangchaxun/zdlycx/?tablename=credit_gjtjj_fr_tjsyzsxqy&gsName=%E7%BB%9F%E8%AE%A1%E4%B8%A5%E9%87%8D%E5%A4%B1%E4%BF%A1%E4%BC%81%E4%B8%9A%E5%90%8D%E5%8D%95",
+      "site_id": 17,
+      "variants": [
+        {
+          "id": "17_a",
+          "query": [
+            0.339,
+            0.518,
+            0.611,
+            0.561
+          ],
+          "result": [
+            0.19,
+            0.699,
+            0.809,
+            0.963
+          ],
+          "source": "mapped_input",
+          "result_extent": "viewport",
+          "no_query_reason": null,
+          "asset": "17_a.npz",
+          "feature_size": [
+            1200,
+            675
+          ],
+          "near_region": [
+            238.8,
+            214.65,
+            901.2,
+            432.675
+          ],
+          "near_features": 134,
+          "reference_sha": "2adc357e4e9345f5ad9bb0a1ceaa74044919361ebb74481eab8e9112003f0619",
+          "reference_size": [
+            1920,
+            1080
+          ],
+          "reference_feature_count": 671,
+          "static_preview": "17_a_static.jpg",
+          "provenance": "人工查看该栏目原始截图，仅标定区域，不标注答案"
+        }
+      ]
+    },
+    "严重拖欠农民工工资失信主体_信用中国|creditchina.gov.cn/zhuanxiangchaxun/zdlycx?tablename=credit_rsb_fr_tqnmggz&gsName=拖欠农民工工资失信联合惩戒对象名单": {
+      "key": "严重拖欠农民工工资失信主体_信用中国|creditchina.gov.cn/zhuanxiangchaxun/zdlycx?tablename=credit_rsb_fr_tqnmggz&gsName=拖欠农民工工资失信联合惩戒对象名单",
+      "name": "严重拖欠农民工工资失信主体_信用中国",
+      "url": "https://www.creditchina.gov.cn/zhuanxiangchaxun/zdlycx/?tablename=credit_rsb_fr_tqnmggz&gsName=%E6%8B%96%E6%AC%A0%E5%86%9C%E6%B0%91%E5%B7%A5%E5%B7%A5%E8%B5%84%E5%A4%B1%E4%BF%A1%E8%81%94%E5%90%88%E6%83%A9%E6%88%92%E5%AF%B9%E8%B1%A1%E5%90%8D%E5%8D%95",
+      "site_id": 18,
+      "variants": [
+        {
+          "id": "18_a",
+          "query": [
+            0.339,
+            0.518,
+            0.611,
+            0.561
+          ],
+          "result": [
+            0.19,
+            0.7,
+            0.809,
+            0.84
+          ],
+          "source": "mapped_input",
+          "result_extent": "bounded",
+          "no_query_reason": null,
+          "asset": "18_a.npz",
+          "feature_size": [
+            1200,
+            675
+          ],
+          "near_region": [
+            238.8,
+            214.65,
+            901.2,
+            432.675
+          ],
+          "near_features": 219,
+          "reference_sha": "e679eaa5ae459451f9af2a44bd65d8e43fa854af8858b3307def514b2e751c5b",
+          "reference_size": [
+            1920,
+            1080
+          ],
+          "reference_feature_count": 756,
+          "static_preview": "18_a_static.jpg",
+          "provenance": "人工查看该栏目原始截图，仅标定区域，不标注答案"
+        }
+      ]
+    },
+    "政府采购严重违法失信名单查询_信用中国|creditchina.gov.cn/zhuanxiangchaxun/zhengfucaigouyanzhongweifashixinmingdan": {
+      "key": "政府采购严重违法失信名单查询_信用中国|creditchina.gov.cn/zhuanxiangchaxun/zhengfucaigouyanzhongweifashixinmingdan",
+      "name": "政府采购严重违法失信名单查询_信用中国",
+      "url": "https://www.creditchina.gov.cn/zhuanxiangchaxun/zhengfucaigouyanzhongweifashixinmingdan/",
+      "site_id": 19,
+      "variants": [
+        {
+          "id": "19_a",
+          "query": [
+            0.339,
+            0.518,
+            0.611,
+            0.561
+          ],
+          "result": [
+            0.19,
+            0.699,
+            0.809,
+            0.963
+          ],
+          "source": "mapped_input",
+          "result_extent": "viewport",
+          "no_query_reason": null,
+          "asset": "19_a.npz",
+          "feature_size": [
+            1200,
+            675
+          ],
+          "near_region": [
+            238.8,
+            214.65,
+            901.2,
+            432.675
+          ],
+          "near_features": 192,
+          "reference_sha": "fcfef8e4ba479f411d174ad0d2214f3df1a2c386e65a3455139c58c47776151a",
+          "reference_size": [
+            1920,
+            1080
+          ],
+          "reference_feature_count": 729,
+          "static_preview": "19_a_static.jpg",
+          "provenance": "人工查看该栏目原始截图，仅标定区域，不标注答案"
+        }
+      ]
+    },
+    "重大税收违法案件当事人名单查询_信用中国|creditchina.gov.cn/zhuanxiangchaxun/zhongdashuishouweifaanjian": {
+      "key": "重大税收违法案件当事人名单查询_信用中国|creditchina.gov.cn/zhuanxiangchaxun/zhongdashuishouweifaanjian",
+      "name": "重大税收违法案件当事人名单查询_信用中国",
+      "url": "https://www.creditchina.gov.cn/zhuanxiangchaxun/zhongdashuishouweifaanjian/",
+      "site_id": 20,
+      "variants": [
+        {
+          "id": "20_a",
+          "query": [
+            0.339,
+            0.518,
+            0.611,
+            0.561
+          ],
+          "result": [
+            0.19,
+            0.699,
+            0.809,
+            0.963
+          ],
+          "source": "mapped_input",
+          "result_extent": "viewport",
+          "no_query_reason": null,
+          "asset": "20_a.npz",
+          "feature_size": [
+            1200,
+            675
+          ],
+          "near_region": [
+            238.8,
+            214.65,
+            901.2,
+            432.675
+          ],
+          "near_features": 140,
+          "reference_sha": "5bcc0084e22dda16f556793cf3a5c7b4b3ae94208287da4fe9a0e1cffc190ed7",
+          "reference_size": [
+            1920,
+            1080
+          ],
+          "reference_feature_count": 677,
+          "static_preview": "20_a_static.jpg",
+          "provenance": "人工查看该栏目原始截图，仅标定区域，不标注答案"
+        }
+      ]
+    },
+    "证监会|csrc.gov.cn": {
+      "key": "证监会|csrc.gov.cn",
+      "name": "证监会",
+      "url": "http://www.csrc.gov.cn/",
+      "site_id": 21,
+      "variants": [
+        {
+          "id": "21_a",
+          "query": [
+            0.363,
+            0.402,
+            0.582,
+            0.456
+          ],
+          "result": [
+            0.371,
+            0.615,
+            0.763,
+            0.946
+          ],
+          "source": "mapped_input",
+          "result_extent": "viewport",
+          "no_query_reason": null,
+          "asset": "21_a.npz",
+          "feature_size": [
+            1200,
+            675
+          ],
+          "near_region": [
+            267.59999999999997,
+            136.35000000000002,
+            866.4,
+            361.8
+          ],
+          "near_features": 289,
+          "reference_sha": "593903351ed5af1a803aaf0afd4e4c97bb86be7cd753d5085e8ccf788e61aef7",
+          "reference_size": [
+            1920,
+            1080
+          ],
+          "reference_feature_count": 632,
+          "static_preview": "21_a_static.jpg",
+          "provenance": "人工查看该栏目原始截图，仅标定区域，不标注答案"
+        }
+      ]
+    },
+    "广东证监局|csrc.gov.cn/guangdong/c104531/zfxxgk_zdgk.shtml?tab=zdgkml": {
+      "key": "广东证监局|csrc.gov.cn/guangdong/c104531/zfxxgk_zdgk.shtml?tab=zdgkml",
+      "name": "广东证监局",
+      "url": "http://www.csrc.gov.cn/guangdong/c104531/zfxxgk_zdgk.shtml?tab=zdgkml",
+      "site_id": 22,
+      "variants": [
+        {
+          "id": "22_a",
+          "query": [
+            0.419,
+            0.325,
+            0.562,
+            0.357
+          ],
+          "result": [
+            0.425,
+            0.443,
+            0.657,
+            0.64
+          ],
+          "source": "mapped_input",
+          "result_extent": "bounded",
+          "no_query_reason": null,
+          "asset": "22_a.npz",
+          "feature_size": [
+            1200,
+            675
+          ],
+          "near_region": [
+            334.79999999999995,
+            84.375,
+            842.4000000000001,
+            294.975
+          ],
+          "near_features": 201,
+          "reference_sha": "130965c6592ad5ead97b7ea206bd3aafe2b75af4f0a8aed318999e62f9031860",
+          "reference_size": [
+            1920,
+            1080
+          ],
+          "reference_feature_count": 296,
+          "static_preview": "22_a_static.jpg",
+          "provenance": "人工查看该栏目原始截图，仅标定区域，不标注答案"
+        }
+      ]
+    },
+    "证监会监管信息公开目录|csrc.gov.cn/pub/zjhpublic/index.htm?channel=3300/3313": {
+      "key": "证监会监管信息公开目录|csrc.gov.cn/pub/zjhpublic/index.htm?channel=3300/3313",
+      "name": "证监会监管信息公开目录",
+      "url": "http://www.csrc.gov.cn/pub/zjhpublic/index.htm?channel=3300/3313",
+      "site_id": 23,
+      "variants": [
+        {
+          "id": "23_a",
+          "query": [
+            0.363,
+            0.402,
+            0.582,
+            0.456
+          ],
+          "result": [
+            0.371,
+            0.615,
+            0.763,
+            0.946
+          ],
+          "source": "mapped_input",
+          "result_extent": "viewport",
+          "no_query_reason": null,
+          "asset": "23_a.npz",
+          "feature_size": [
+            1200,
+            675
+          ],
+          "near_region": [
+            267.59999999999997,
+            136.35000000000002,
+            866.4,
+            361.8
+          ],
+          "near_features": 289,
+          "reference_sha": "593903351ed5af1a803aaf0afd4e4c97bb86be7cd753d5085e8ccf788e61aef7",
+          "reference_size": [
+            1920,
+            1080
+          ],
+          "reference_feature_count": 632,
+          "static_preview": "23_a_static.jpg",
+          "provenance": "人工查看该栏目原始截图，仅标定区域，不标注答案"
+        }
+      ]
+    },
+    "中国海关总署|customs.gov.cn": {
+      "key": "中国海关总署|customs.gov.cn",
+      "name": "中国海关总署",
+      "url": "http://www.customs.gov.cn/",
+      "site_id": 24,
+      "variants": [
+        {
+          "id": "24_a",
+          "query": [
+            0.547,
+            0.086,
+            0.76,
+            0.139
+          ],
+          "result": [
+            0.19,
+            0.322,
+            0.641,
+            0.963
+          ],
+          "source": "mapped_input",
+          "result_extent": "viewport",
+          "no_query_reason": null,
+          "asset": "24_a.npz",
+          "feature_size": [
+            1200,
+            675
+          ],
+          "near_region": [
+            488.40000000000003,
+            48.599999999999994,
+            1080.0,
+            147.82500000000002
+          ],
+          "near_features": 98,
+          "reference_sha": "738a1314b8d797d3b72eec22d9f61336fb0679bc5acb0ea42ee13d2f97e32b98",
+          "reference_size": [
+            1920,
+            1080
+          ],
+          "reference_feature_count": 497,
+          "static_preview": "24_a_static.jpg",
+          "provenance": "人工查看该栏目原始截图，仅标定区域，不标注答案"
+        }
+      ]
+    },
+    "中国房地产业协会|fangchan.com": {
+      "key": "中国房地产业协会|fangchan.com",
+      "name": "中国房地产业协会",
+      "url": "http://www.fangchan.com/",
+      "site_id": 25,
+      "variants": [
+        {
+          "id": "25_a",
+          "query": [
+            0.305,
+            0.237,
+            0.518,
+            0.285
+          ],
+          "result": [
+            0.307,
+            0.263,
+            0.55,
+            0.872
+          ],
+          "source": "query_echo",
+          "result_extent": "bounded",
+          "no_query_reason": null,
+          "asset": "25_a.npz",
+          "feature_size": [
+            1200,
+            675
+          ],
+          "near_region": [
+            197.99999999999997,
+            48.599999999999994,
+            789.6,
+            246.375
+          ],
+          "near_features": 162,
+          "reference_sha": "a7f2e0e4a7a8d6c1deb58d2adea15a69808ec05b457ed9c461f8dea5a48e8181",
+          "reference_size": [
+            1920,
+            1080
+          ],
+          "reference_feature_count": 183,
+          "static_preview": "25_a_static.jpg",
+          "provenance": "人工查看该栏目原始截图，仅标定区域，不标注答案"
+        }
+      ]
+    },
+    "广东省人民政府|gd.gov.cn": {
+      "key": "广东省人民政府|gd.gov.cn",
+      "name": "广东省人民政府",
+      "url": "https://www.gd.gov.cn/",
+      "site_id": 26,
+      "variants": [
+        {
+          "id": "26_a",
+          "query": [
+            0.444,
+            0.092,
+            0.603,
+            0.135
+          ],
+          "result": [
+            0.306,
+            0.346,
+            0.551,
+            0.963
+          ],
+          "source": "mapped_input",
+          "result_extent": "viewport",
+          "no_query_reason": null,
+          "asset": "26_a.npz",
+          "feature_size": [
+            1200,
+            675
+          ],
+          "near_region": [
+            364.8,
+            48.599999999999994,
+            891.6,
+            145.12500000000003
+          ],
+          "near_features": 86,
+          "reference_sha": "3d731e3ab3484c347397582ee1604567feb97a07d47225c9af13a57bd203c20f",
+          "reference_size": [
+            1920,
+            1080
+          ],
+          "reference_feature_count": 188,
+          "static_preview": "26_a_static.jpg",
+          "provenance": "人工查看该栏目原始截图，仅标定区域，不标注答案"
+        }
+      ]
+    },
+    "广东省人民检察院|gd.jcy.gov.cn": {
+      "key": "广东省人民检察院|gd.jcy.gov.cn",
+      "name": "广东省人民检察院",
+      "url": "http://www.gd.jcy.gov.cn/",
+      "site_id": 27,
+      "variants": [
+        {
+          "id": "27_a",
+          "query": [
+            0.609,
+            0.079,
+            0.782,
+            0.133
+          ],
+          "result": [
+            0.186,
+            0.246,
+            0.65,
+            0.383
+          ],
+          "source": "mapped_input",
+          "result_extent": "bounded",
+          "no_query_reason": null,
+          "asset": "27_a.npz",
+          "feature_size": [
+            1200,
+            675
+          ],
+          "near_region": [
+            562.8,
+            48.599999999999994,
+            1106.4,
+            143.775
+          ],
+          "near_features": 2,
+          "reference_sha": "6839a6041b40944929fefe507148437d6968345ba4619e9eb66bacba0b4b2bf2",
+          "reference_size": [
+            1920,
+            1080
+          ],
+          "reference_feature_count": 118,
+          "static_preview": "27_a_static.jpg",
+          "provenance": "人工查看该栏目原始截图，仅标定区域，不标注答案"
+        }
+      ]
+    },
+    "广东法院网|gdcourts.gov.cn": {
+      "key": "广东法院网|gdcourts.gov.cn",
+      "name": "广东法院网",
+      "url": "http://www.gdcourts.gov.cn/",
+      "site_id": 28,
+      "variants": [
+        {
+          "id": "28_a",
+          "query": [
+            0.314,
+            0.267,
+            0.611,
+            0.324
+          ],
+          "result": [
+            0.23,
+            0.417,
+            0.6,
+            0.962
+          ],
+          "source": "mapped_input",
+          "result_extent": "viewport",
+          "no_query_reason": null,
+          "asset": "28_a.npz",
+          "feature_size": [
+            1200,
+            675
+          ],
+          "near_region": [
+            208.79999999999998,
+            48.599999999999994,
+            901.2,
+            272.70000000000005
+          ],
+          "near_features": 212,
+          "reference_sha": "e652257a9e2c068e5736a5acc06275eafba3d558c076deb7367a5cda0ff84748",
+          "reference_size": [
+            1920,
+            1080
+          ],
+          "reference_feature_count": 213,
+          "static_preview": "28_a_static.jpg",
+          "provenance": "人工查看该栏目原始截图，仅标定区域，不标注答案"
+        }
+      ]
+    },
+    "广东省生态环境厅|gdee.gd.gov.cn": {
+      "key": "广东省生态环境厅|gdee.gd.gov.cn",
+      "name": "广东省生态环境厅",
+      "url": "https://gdee.gd.gov.cn/",
+      "site_id": 29,
+      "variants": [
+        {
+          "id": "29_a",
+          "query": [
+            0.304,
+            0.364,
+            0.569,
+            0.418
+          ],
+          "result": [
+            0.187,
+            0.705,
+            0.6,
+            0.956
+          ],
+          "source": "mapped_input",
+          "result_extent": "viewport",
+          "no_query_reason": null,
+          "asset": "29_a.npz",
+          "feature_size": [
+            1200,
+            675
+          ],
+          "near_region": [
+            196.79999999999998,
+            110.69999999999999,
+            850.8,
+            336.15
+          ],
+          "near_features": 344,
+          "reference_sha": "9d4dc5d04887b5f98e9a7366e99565a4e05d0b1c60b597ae08635837f67ef10c",
+          "reference_size": [
+            1920,
+            1080
+          ],
+          "reference_feature_count": 425,
+          "static_preview": "29_a_static.jpg",
+          "provenance": "人工查看该栏目原始截图，仅标定区域，不标注答案"
+        }
+      ]
+    },
+    "广东纪律检查委员会|gdjct.gd.gov.cn": {
+      "key": "广东纪律检查委员会|gdjct.gd.gov.cn",
+      "name": "广东纪律检查委员会",
+      "url": "http://www.gdjct.gd.gov.cn/",
+      "site_id": 30,
+      "variants": [
+        {
+          "id": "30_a",
+          "query": [
+            0.368,
+            0.23299999999999998,
+            0.577,
+            0.276
+          ],
+          "result": [
+            0.309,
+            0.369,
+            0.573,
+            0.964
+          ],
+          "source": "mapped_input",
+          "result_extent": "viewport",
+          "no_query_reason": null,
+          "asset": "30_a.npz",
+          "feature_size": [
+            1200,
+            675
+          ],
+          "near_region": [
+            273.59999999999997,
+            48.599999999999994,
+            860.4,
+            240.30000000000004
+          ],
+          "near_features": 143,
+          "reference_sha": "4f0fe83075843074961560526201f44facad3b56ad146a3defc5f0aa09ce5366",
+          "reference_size": [
+            1920,
+            1080
+          ],
+          "reference_feature_count": 146,
+          "static_preview": "30_a_static.jpg",
+          "provenance": "人工查看该栏目原始截图，仅标定区域，不标注答案"
+        }
+      ]
+    },
+    "全国资源公共交易平台|ggzy.gov.cn": {
+      "key": "全国资源公共交易平台|ggzy.gov.cn",
+      "name": "全国资源公共交易平台",
+      "url": "http://www.ggzy.gov.cn",
+      "site_id": 31,
+      "variants": [
+        {
+          "id": "31_a",
+          "query": [
+            0.359,
+            0.403,
+            0.551,
+            0.437
+          ],
+          "result": [
+            0.312,
+            0.45,
+            0.691,
+            0.517
+          ],
+          "source": "mapped_input",
+          "result_extent": "bounded",
+          "no_query_reason": null,
+          "asset": "31_a.npz",
+          "feature_size": [
+            1200,
+            675
+          ],
+          "near_region": [
+            262.79999999999995,
+            137.025,
+            829.2,
+            348.975
+          ],
+          "near_features": 309,
+          "reference_sha": "8606c26e04a176fc199d6ae08ad3a158831eeedbe2de5440508d999e65b4a4be",
+          "reference_size": [
+            1920,
+            1080
+          ],
+          "reference_feature_count": 465,
+          "static_preview": "31_a_static.jpg",
+          "provenance": "人工查看该栏目原始截图，仅标定区域，不标注答案"
+        }
+      ]
+    },
+    "国家税务总局广东省税务局|guangdong.chinatax.gov.cn/gdsw/index.shtml": {
+      "key": "国家税务总局广东省税务局|guangdong.chinatax.gov.cn/gdsw/index.shtml",
+      "name": "国家税务总局广东省税务局",
+      "url": "http://guangdong.chinatax.gov.cn/gdsw/index.shtml",
+      "site_id": 32,
+      "variants": [
+        {
+          "id": "32_a",
+          "query": [
+            0.389,
+            0.10099999999999999,
+            0.58,
+            0.14
+          ],
+          "result": [
+            0.246,
+            0.286,
+            0.6,
+            0.428
+          ],
+          "source": "mapped_input",
+          "result_extent": "bounded",
+          "no_query_reason": null,
+          "asset": "32_a.npz",
+          "feature_size": [
+            1200,
+            675
+          ],
+          "near_region": [
+            298.8,
+            48.599999999999994,
+            864.0,
+            148.50000000000003
+          ],
+          "near_features": 173,
+          "reference_sha": "45df8135b6879eb4990b7a5c0e8c08e26b6c1ee6444056e95defa2ec1cccf04b",
+          "reference_size": [
+            1920,
+            1080
+          ],
+          "reference_feature_count": 203,
+          "static_preview": "32_a_static.jpg",
+          "provenance": "人工查看该栏目原始截图，仅标定区域，不标注答案"
+        }
+      ]
+    },
+    "国家税务局重大税收违法案件信息公布栏_广东|guangdong.chinatax.gov.cn/siteapps/webpage/gdtax/zdsswfaj/index.jsp": {
+      "key": "国家税务局重大税收违法案件信息公布栏_广东|guangdong.chinatax.gov.cn/siteapps/webpage/gdtax/zdsswfaj/index.jsp",
+      "name": "国家税务局重大税收违法案件信息公布栏_广东",
+      "url": "http://guangdong.chinatax.gov.cn/siteapps/webpage/gdtax/zdsswfaj/index.jsp",
+      "site_id": 33,
+      "variants": [
+        {
+          "id": "33_a",
+          "query": [
+            0.591,
+            0.296,
+            0.773,
+            0.328
+          ],
+          "result": [
+            0.204,
+            0.553,
+            0.83,
+            0.731
+          ],
+          "source": "mapped_input",
+          "result_extent": "bounded",
+          "no_query_reason": null,
+          "asset": "33_a.npz",
+          "feature_size": [
+            1200,
+            675
+          ],
+          "near_region": [
+            541.1999999999999,
+            64.79999999999998,
+            1095.6000000000001,
+            275.40000000000003
+          ],
+          "near_features": 66,
+          "reference_sha": "d3ab1a74920d3c7ffa0d556dee29fbd85651684aaeb8fb214594d5ceeb3ce5a9",
+          "reference_size": [
+            1920,
+            1080
+          ],
+          "reference_feature_count": 611,
+          "static_preview": "33_a_static.jpg",
+          "provenance": "人工查看该栏目原始截图，仅标定区域，不标注答案"
+        }
+      ]
+    },
+    "中国保险业协会|iachina.cn": {
+      "key": "中国保险业协会|iachina.cn",
+      "name": "中国保险业协会",
+      "url": "https://www.iachina.cn/",
+      "site_id": 34,
+      "variants": [
+        {
+          "id": "34_a",
+          "query": [
+            0.23399999999999999,
+            0.148,
+            0.566,
+            0.193
+          ],
+          "result": [
+            0.308,
+            0.279,
+            0.615,
+            0.399
+          ],
+          "source": "mapped_input",
+          "result_extent": "bounded",
+          "no_query_reason": null,
+          "asset": "34_a.npz",
+          "feature_size": [
+            1200,
+            675
+          ],
+          "near_region": [
+            112.79999999999997,
+            48.599999999999994,
+            847.1999999999999,
+            184.275
+          ],
+          "near_features": 61,
+          "reference_sha": "47ff3526752a2e4ffd73056227250dbc4bf2160c7bd277a6b54be00a0e782f9e",
+          "reference_size": [
+            1920,
+            1080
+          ],
+          "reference_feature_count": 66,
+          "static_preview": "34_a_static.jpg",
+          "provenance": "人工查看该栏目原始截图，仅标定区域，不标注答案"
+        }
+      ]
+    },
+    "生态环境部|mee.gov.cn": {
+      "key": "生态环境部|mee.gov.cn",
+      "name": "生态环境部",
+      "url": "http://www.mee.gov.cn/",
+      "site_id": 35,
+      "variants": [
+        {
+          "id": "35_a",
+          "query": [
+            0.208,
+            0.33,
+            0.617,
+            0.383
+          ],
+          "result": [
+            0.21,
+            0.614,
+            0.79,
+            0.963
+          ],
+          "source": "mapped_input",
+          "result_extent": "viewport",
+          "no_query_reason": null,
+          "asset": "35_a.npz",
+          "feature_size": [
+            1200,
+            675
+          ],
+          "near_region": [
+            81.59999999999997,
+            87.75,
+            908.4,
+            312.52500000000003
+          ],
+          "near_features": 325,
+          "reference_sha": "5eed3050d4613845db93a11402d4260b39483a00e47f59ec8e4dd9913acab41c",
+          "reference_size": [
+            1920,
+            1080
+          ],
+          "reference_feature_count": 678,
+          "static_preview": "35_a_static.jpg",
+          "provenance": "人工查看该栏目原始截图，仅标定区域，不标注答案"
+        }
+      ]
+    },
+    "应急管理部|mem.gov.cn": {
+      "key": "应急管理部|mem.gov.cn",
+      "name": "应急管理部",
+      "url": "https://www.mem.gov.cn/",
+      "site_id": 36,
+      "variants": [
+        {
+          "id": "36_a",
+          "query": [
+            0.42,
+            0.218,
+            0.546,
+            0.243
+          ],
+          "result": [
+            0.364,
+            0.31,
+            0.639,
+            0.595
+          ],
+          "source": "mapped_input",
+          "result_extent": "bounded",
+          "no_query_reason": null,
+          "asset": "36_a.npz",
+          "feature_size": [
+            1200,
+            675
+          ],
+          "near_region": [
+            335.99999999999994,
+            48.599999999999994,
+            823.2,
+            218.025
+          ],
+          "near_features": 277,
+          "reference_sha": "d16c3ca4ea8c9607ec9d861d6bfc3a546a9dac988ff967486a697bda14e5c69b",
+          "reference_size": [
+            1920,
+            1080
+          ],
+          "reference_feature_count": 277,
+          "static_preview": "36_a_static.jpg",
+          "provenance": "人工查看该栏目原始截图，仅标定区域，不标注答案"
+        }
+      ]
+    },
+    "工业和信息化部|miit.gov.cn": {
+      "key": "工业和信息化部|miit.gov.cn",
+      "name": "工业和信息化部",
+      "url": "http://www.miit.gov.cn/",
+      "site_id": 37,
+      "variants": [
+        {
+          "id": "37_a",
+          "query": [
+            0.162,
+            0.165,
+            0.736,
+            0.218
+          ],
+          "result": [
+            0.16,
+            0.355,
+            0.61,
+            0.963
+          ],
+          "source": "mapped_input",
+          "result_extent": "viewport",
+          "no_query_reason": null,
+          "asset": "37_a.npz",
+          "feature_size": [
+            1200,
+            675
+          ],
+          "near_region": [
+            26.39999999999999,
+            48.599999999999994,
+            1051.2,
+            201.14999999999998
+          ],
+          "near_features": 343,
+          "reference_sha": "2ba8673af66b6a95c0d34fddc582cd7e980944955096ed9dfeabca6a883a163d",
+          "reference_size": [
+            1920,
+            1080
+          ],
+          "reference_feature_count": 390,
+          "static_preview": "37_a_static.jpg",
+          "provenance": "人工查看该栏目原始截图，仅标定区域，不标注答案"
+        }
+      ]
+    },
+    "自然资源部|mnr.gov.cn": {
+      "key": "自然资源部|mnr.gov.cn",
+      "name": "自然资源部",
+      "url": "https://www.mnr.gov.cn/",
+      "site_id": 38,
+      "variants": [
+        {
+          "id": "38_a",
+          "query": [
+            0.362,
+            0.387,
+            0.586,
+            0.429
+          ],
+          "result": [
+            0.278,
+            0.501,
+            0.585,
+            0.963
+          ],
+          "source": "mapped_input",
+          "result_extent": "viewport",
+          "no_query_reason": null,
+          "asset": "38_a.npz",
+          "feature_size": [
+            1200,
+            675
+          ],
+          "near_region": [
+            266.4,
+            126.225,
+            871.1999999999999,
+            343.575
+          ],
+          "near_features": 318,
+          "reference_sha": "7544c7153004722ec8e97c8c9ff793e9110bde7bddf2bf167fb66bcc29f52900",
+          "reference_size": [
+            1920,
+            1080
+          ],
+          "reference_feature_count": 679,
+          "static_preview": "38_a_static.jpg",
+          "provenance": "人工查看该栏目原始截图，仅标定区域，不标注答案"
+        }
+      ]
+    },
+    "国家农业部|moa.gov.cn": {
+      "key": "国家农业部|moa.gov.cn",
+      "name": "国家农业部",
+      "url": "http://www.moa.gov.cn/",
+      "site_id": 39,
+      "variants": [
+        {
+          "id": "39_a",
+          "query": [
+            0.551,
+            0.141,
+            0.676,
+            0.179
+          ],
+          "result": [
+            0.282,
+            0.24,
+            0.59,
+            0.333
+          ],
+          "source": "mapped_input",
+          "result_extent": "bounded",
+          "no_query_reason": null,
+          "asset": "39_a.npz",
+          "feature_size": [
+            1200,
+            675
+          ],
+          "near_region": [
+            493.20000000000005,
+            48.599999999999994,
+            979.2,
+            174.82500000000002
+          ],
+          "near_features": 189,
+          "reference_sha": "1faa9fc071087d34806b8f8d90568793a741bb2fb413c173047b171583043e5b",
+          "reference_size": [
+            1920,
+            1080
+          ],
+          "reference_feature_count": 297,
+          "static_preview": "39_a_static.jpg",
+          "provenance": "人工查看该栏目原始截图，仅标定区域，不标注答案"
+        }
+      ]
+    },
+    "国家财政部|mof.gov.cn": {
+      "key": "国家财政部|mof.gov.cn",
+      "name": "国家财政部",
+      "url": "http://www.mof.gov.cn/index.htm",
+      "site_id": 40,
+      "variants": [
+        {
+          "id": "40_a",
+          "query": [
+            0.424,
+            0.262,
+            0.684,
+            0.314
+          ],
+          "result": [
+            0.24,
+            0.435,
+            0.75,
+            0.508
+          ],
+          "source": "mapped_input",
+          "result_extent": "bounded",
+          "no_query_reason": null,
+          "asset": "40_a.npz",
+          "feature_size": [
+            1200,
+            675
+          ],
+          "near_region": [
+            340.79999999999995,
+            48.599999999999994,
+            988.8000000000001,
+            265.95
+          ],
+          "near_features": 297,
+          "reference_sha": "94df52fc1d67b3b1e4e6223f0a000c9a2adb74df34dc9017d216492543b404fe",
+          "reference_size": [
+            1920,
+            1080
+          ],
+          "reference_feature_count": 345,
+          "static_preview": "40_a_static.jpg",
+          "provenance": "人工查看该栏目原始截图，仅标定区域，不标注答案"
+        }
+      ]
+    },
+    "国家商务部|mofcom.gov.cn": {
+      "key": "国家商务部|mofcom.gov.cn",
+      "name": "国家商务部",
+      "url": "http://www.mofcom.gov.cn/",
+      "site_id": 41,
+      "variants": [
+        {
+          "id": "41_a",
+          "query": [
+            0.299,
+            0.307,
+            0.719,
+            0.358
+          ],
+          "result": [
+            0.211,
+            0.389,
+            0.645,
+            0.963
+          ],
+          "source": "mapped_input",
+          "result_extent": "viewport",
+          "no_query_reason": null,
+          "asset": "41_a.npz",
+          "feature_size": [
+            1200,
+            675
+          ],
+          "near_region": [
+            190.79999999999998,
+            72.225,
+            1030.8,
+            295.65
+          ],
+          "near_features": 207,
+          "reference_sha": "bf460a48aa8313b0259b15b66871f622530aaf891512999c41614305ef3178d4",
+          "reference_size": [
+            1920,
+            1080
+          ],
+          "reference_feature_count": 263,
+          "static_preview": "41_a_static.jpg",
+          "provenance": "人工查看该栏目原始截图，仅标定区域，不标注答案"
+        }
+      ]
+    },
+    "中华人民共和国人力资源和社会保障部|mohrss.gov.cn": {
+      "key": "中华人民共和国人力资源和社会保障部|mohrss.gov.cn",
+      "name": "中华人民共和国人力资源和社会保障部",
+      "url": "https://www.mohrss.gov.cn/",
+      "site_id": 42,
+      "variants": [
+        {
+          "id": "42_a",
+          "query": [
+            0.352,
+            0.323,
+            0.555,
+            0.357
+          ],
+          "result": [
+            0.234,
+            0.5,
+            0.758,
+            0.963
+          ],
+          "source": "mapped_input",
+          "result_extent": "viewport",
+          "no_query_reason": null,
+          "asset": "42_a.npz",
+          "feature_size": [
+            1200,
+            675
+          ],
+          "near_region": [
+            254.39999999999995,
+            83.025,
+            834.0000000000001,
+            294.975
+          ],
+          "near_features": 561,
+          "reference_sha": "3ff2b08e15721a04f2d8af78bdde75a0a56320bd3fc447b5dea71a971e30724e",
+          "reference_size": [
+            1920,
+            1080
+          ],
+          "reference_feature_count": 580,
+          "static_preview": "42_a_static.jpg",
+          "provenance": "人工查看该栏目原始截图，仅标定区域，不标注答案"
+        }
+      ]
+    },
+    "住房和城乡建设部|mohurd.gov.cn": {
+      "key": "住房和城乡建设部|mohurd.gov.cn",
+      "name": "住房和城乡建设部",
+      "url": "http://www.mohurd.gov.cn/",
+      "site_id": 43,
+      "variants": [
+        {
+          "id": "43_a",
+          "query": [
+            0.314,
+            0.154,
+            0.527,
+            0.179
+          ],
+          "result": [
+            0.315,
+            0.247,
+            0.568,
+            0.78
+          ],
+          "source": "mapped_input",
+          "result_extent": "bounded",
+          "no_query_reason": null,
+          "asset": "43_a.npz",
+          "feature_size": [
+            1200,
+            675
+          ],
+          "near_region": [
+            208.79999999999998,
+            48.599999999999994,
+            800.4000000000001,
+            174.82500000000002
+          ],
+          "near_features": 123,
+          "reference_sha": "6727bc7a4a55118636ae07740e78a59747be3fe012ed3bea90b8a277aec65bf6",
+          "reference_size": [
+            1920,
+            1080
+          ],
+          "reference_feature_count": 131,
+          "static_preview": "43_a_static.jpg",
+          "provenance": "人工查看该栏目原始截图，仅标定区域，不标注答案"
+        }
+      ]
+    },
+    "中华人民共和国公安部|mps.gov.cn": {
+      "key": "中华人民共和国公安部|mps.gov.cn",
+      "name": "中华人民共和国公安部",
+      "url": "https://www.mps.gov.cn/",
+      "site_id": 44,
+      "variants": [
+        {
+          "id": "44_a",
+          "query": [
+            0.349,
+            0.154,
+            0.701,
+            0.198
+          ],
+          "result": [
+            0.281,
+            0.295,
+            0.581,
+            0.419
+          ],
+          "source": "mapped_input",
+          "result_extent": "bounded",
+          "no_query_reason": null,
+          "asset": "44_a.npz",
+          "feature_size": [
+            1200,
+            675
+          ],
+          "near_region": [
+            250.79999999999995,
+            48.599999999999994,
+            1009.1999999999999,
+            187.65
+          ],
+          "near_features": 152,
+          "reference_sha": "ba15512f2fee274aaaf1efa7e83f43c569ebb08979cc53fd6b514d33d39115c2",
+          "reference_size": [
+            1920,
+            1080
+          ],
+          "reference_feature_count": 152,
+          "static_preview": "44_a_static.jpg",
+          "provenance": "人工查看该栏目原始截图，仅标定区域，不标注答案"
+        }
+      ]
+    },
+    "国家版权局|ncac.gov.cn": {
+      "key": "国家版权局|ncac.gov.cn",
+      "name": "国家版权局",
+      "url": "http://www.ncac.gov.cn",
+      "site_id": 45,
+      "variants": [
+        {
+          "id": "45_a",
+          "query": [
+            0.565,
+            0.32,
+            0.707,
+            0.349
+          ],
+          "result": [
+            0.327,
+            0.475,
+            0.792,
+            0.642
+          ],
+          "source": "mapped_input",
+          "result_extent": "bounded",
+          "no_query_reason": null,
+          "asset": "45_a.npz",
+          "feature_size": [
+            1200,
+            675
+          ],
+          "near_region": [
+            509.99999999999994,
+            81.0,
+            1016.4,
+            289.575
+          ],
+          "near_features": 144,
+          "reference_sha": "7394561cfd6317c65b213d5a59328ce6e63d1890973bbdff62c47b19a5d2f054",
+          "reference_size": [
+            1920,
+            1080
+          ],
+          "reference_feature_count": 279,
+          "static_preview": "45_a_static.jpg",
+          "provenance": "人工查看该栏目原始截图，仅标定区域，不标注答案"
+        }
+      ]
+    },
+    "国家发展和改革委员会|ndrc.gov.cn": {
+      "key": "国家发展和改革委员会|ndrc.gov.cn",
+      "name": "国家发展和改革委员会",
+      "url": "https://www.ndrc.gov.cn/",
+      "site_id": 46,
+      "variants": [
+        {
+          "id": "46_a",
+          "query": [
+            0.478,
+            0.10099999999999999,
+            0.622,
+            0.124
+          ],
+          "result": [
+            0.33,
+            0.205,
+            0.683,
+            0.805
+          ],
+          "source": "mapped_input",
+          "result_extent": "bounded",
+          "no_query_reason": null,
+          "asset": "46_a.npz",
+          "feature_size": [
+            1200,
+            675
+          ],
+          "near_region": [
+            405.59999999999997,
+            48.599999999999994,
+            914.4,
+            137.70000000000002
+          ],
+          "near_features": 97,
+          "reference_sha": "a0166c464d3b633fffdfea54db6768667a95aacdf15b3a9aba3465c9b8546738",
+          "reference_size": [
+            1920,
+            1080
+          ],
+          "reference_feature_count": 113,
+          "static_preview": "46_a_static.jpg",
+          "provenance": "人工查看该栏目原始截图，仅标定区域，不标注答案"
+        }
+      ]
+    },
+    "国家能源局|nea.gov.cn": {
+      "key": "国家能源局|nea.gov.cn",
+      "name": "国家能源局",
+      "url": "http://www.nea.gov.cn/",
+      "site_id": 47,
+      "variants": [
+        {
+          "id": "47_a",
+          "query": [
+            0.427,
+            0.34199999999999997,
+            0.547,
+            0.372
+          ],
+          "result": [
+            0.24,
+            0.405,
+            0.76,
+            0.525
+          ],
+          "source": "mapped_input",
+          "result_extent": "bounded",
+          "no_query_reason": null,
+          "asset": "47_a.npz",
+          "feature_size": [
+            1200,
+            675
+          ],
+          "near_region": [
+            344.4,
+            95.84999999999997,
+            824.4000000000001,
+            305.1
+          ],
+          "near_features": 154,
+          "reference_sha": "e60d285b156cfc23ec492a72f373d11d175cf42123dd36029880f60152328e8c",
+          "reference_size": [
+            1920,
+            1080
+          ],
+          "reference_feature_count": 355,
+          "static_preview": "47_a_static.jpg",
+          "provenance": "人工查看该栏目原始截图，仅标定区域，不标注答案"
+        }
+      ]
+    },
+    "股转公司网站|neeq.cc": {
+      "key": "股转公司网站|neeq.cc",
+      "name": "股转公司网站",
+      "url": "https://www.neeq.cc/",
+      "site_id": 48,
+      "variants": [
+        {
+          "id": "48_a",
+          "query": [
+            0.319,
+            0.289,
+            0.401,
+            0.325
+          ],
+          "result": [
+            0.347,
+            0.466,
+            0.803,
+            0.547
+          ],
+          "source": "mapped_input",
+          "result_extent": "bounded",
+          "no_query_reason": null,
+          "asset": "48_a.npz",
+          "feature_size": [
+            1200,
+            675
+          ],
+          "near_region": [
+            214.79999999999998,
+            60.07499999999998,
+            649.2,
+            273.375
+          ],
+          "near_features": 150,
+          "reference_sha": "3818ba84235c87d41bb4596b37f168fa880da7da35a68a3229a051830ca1fcb5",
+          "reference_size": [
+            1920,
+            1080
+          ],
+          "reference_feature_count": 221,
+          "static_preview": "48_a_static.jpg",
+          "provenance": "人工查看该栏目原始截图，仅标定区域，不标注答案"
+        }
+      ]
+    },
+    "证券期货市场失信记录查询平台|neris.csrc.gov.cn/shixinchaxun": {
+      "key": "证券期货市场失信记录查询平台|neris.csrc.gov.cn/shixinchaxun",
+      "name": "证券期货市场失信记录查询平台",
+      "url": "https://neris.csrc.gov.cn/shixinchaxun/",
+      "site_id": 49,
+      "variants": [
+        {
+          "id": "49_a",
+          "query": [
+            0.445,
+            0.226,
+            0.636,
+            0.256
+          ],
+          "result": [
+            0.313,
+            0.369,
+            0.687,
+            0.57
+          ],
+          "source": "mapped_input",
+          "result_extent": "bounded",
+          "no_query_reason": null,
+          "asset": "49_a.npz",
+          "feature_size": [
+            1200,
+            675
+          ],
+          "near_region": [
+            366.0,
+            48.599999999999994,
+            931.2,
+            226.8
+          ],
+          "near_features": 334,
+          "reference_sha": "ae07621dffef9b61d8a6ee79c32d6dcb2fd2eea871c18c13168fb8fda52d8b5b",
+          "reference_size": [
+            1920,
+            1080
+          ],
+          "reference_feature_count": 396,
+          "static_preview": "49_a_static.jpg",
+          "provenance": "人工查看该栏目原始截图，仅标定区域，不标注答案"
+        }
+      ]
+    },
+    "国家金融监督管理总局|nfra.gov.cn/cn/view/pages/index/index.html": {
+      "key": "国家金融监督管理总局|nfra.gov.cn/cn/view/pages/index/index.html",
+      "name": "国家金融监督管理总局",
+      "url": "https://www.nfra.gov.cn/cn/view/pages/index/index.html",
+      "site_id": 50,
+      "variants": [
+        {
+          "id": "50_a",
+          "query": [
+            0.40599999999999997,
+            0.218,
+            0.635,
+            0.245
+          ],
+          "result": [
+            0.407,
+            0.262,
+            0.671,
+            0.564
+          ],
+          "source": "mapped_input",
+          "result_extent": "bounded",
+          "no_query_reason": null,
+          "asset": "50_a.npz",
+          "feature_size": [
+            1200,
+            675
+          ],
+          "near_region": [
+            319.19999999999993,
+            48.599999999999994,
+            930.0,
+            219.375
+          ],
+          "near_features": 191,
+          "reference_sha": "32088be85ad084bc500f76b1988158734573d68e0f3dffa581169cb65ec81d6f",
+          "reference_size": [
+            1920,
+            1080
+          ],
+          "reference_feature_count": 191,
+          "static_preview": "50_a_static.jpg",
+          "provenance": "人工查看该栏目原始截图，仅标定区域，不标注答案"
+        }
+      ]
+    },
+    "国家药品监督管理局|nmpa.gov.cn": {
+      "key": "国家药品监督管理局|nmpa.gov.cn",
+      "name": "国家药品监督管理局",
+      "url": "https://www.nmpa.gov.cn/",
+      "site_id": 51,
+      "variants": [
+        {
+          "id": "51_a",
+          "query": [
+            0.469,
+            0.118,
+            0.661,
+            0.157
+          ],
+          "result": [
+            0.278,
+            0.279,
+            0.59,
+            0.425
+          ],
+          "source": "mapped_input",
+          "result_extent": "bounded",
+          "no_query_reason": null,
+          "asset": "51_a.npz",
+          "feature_size": [
+            1200,
+            655
+          ],
+          "near_region": [
+            394.79999999999995,
+            47.16,
+            961.2,
+            155.23499999999999
+          ],
+          "near_features": 137,
+          "reference_sha": "a5d28b3a623cb1a8434ab9a54348aef114bda1e094de808db5f3ad3880dc31bd",
+          "reference_size": [
+            1936,
+            1056
+          ],
+          "reference_feature_count": 253,
+          "static_preview": "51_a_static.jpg",
+          "provenance": "人工查看该栏目原始截图，仅标定区域，不标注答案"
+        }
+      ]
+    },
+    "国家能源网|ocpe.com.cn": {
+      "key": "国家能源网|ocpe.com.cn",
+      "name": "国家能源网",
+      "url": "http://www.ocpe.com.cn/",
+      "site_id": 52,
+      "variants": [
+        {
+          "id": "52_a",
+          "query": null,
+          "result": [
+            0.371,
+            0.156,
+            0.631,
+            0.235
+          ],
+          "source": "mapped_input",
+          "result_extent": "bounded",
+          "no_query_reason": "当前版式未显示查询控件",
+          "asset": "52_a.npz",
+          "feature_size": [
+            1200,
+            675
+          ],
+          "near_region": [
+            277.2,
+            48.599999999999994,
+            925.2,
+            212.625
+          ],
+          "near_features": 0,
+          "reference_sha": "244070d970a2508ae51886e6efa807aa9efe22d9259358f711c33e059f2402d2",
+          "reference_size": [
+            1920,
+            1080
+          ],
+          "reference_feature_count": 0,
+          "static_preview": "52_a_static.jpg",
+          "provenance": "人工查看该栏目原始截图，仅标定区域，不标注答案"
+        }
+      ]
+    },
+    "动产融资统一登记公示系统|pbccrc.org.cn": {
+      "key": "动产融资统一登记公示系统|pbccrc.org.cn",
+      "name": "动产融资统一登记公示系统",
+      "url": "https://www.pbccrc.org.cn/",
+      "site_id": 53,
+      "variants": [
+        {
+          "id": "53_a",
+          "query": [
+            0.643,
+            0.196,
+            0.752,
+            0.224
+          ],
+          "result": [
+            0.23,
+            0.327,
+            0.765,
+            0.863
+          ],
+          "source": "mapped_input",
+          "result_extent": "bounded",
+          "no_query_reason": null,
+          "asset": "53_a.npz",
+          "feature_size": [
+            1200,
+            675
+          ],
+          "near_region": [
+            603.6,
+            48.599999999999994,
+            1070.4,
+            205.2
+          ],
+          "near_features": 112,
+          "reference_sha": "ba253b658888255e56808282c6cdbf10f9c13bb46088a72fc1ed13f9e7686917",
+          "reference_size": [
+            1920,
+            1080
+          ],
+          "reference_feature_count": 363,
+          "static_preview": "53_a_static.jpg",
+          "provenance": "人工查看该栏目原始截图，仅标定区域，不标注答案"
+        }
+      ]
+    },
+    "全国企业破产重整案件信息网|pccz.court.gov.cn/pcajxxw/index/xxwsy": {
+      "key": "全国企业破产重整案件信息网|pccz.court.gov.cn/pcajxxw/index/xxwsy",
+      "name": "全国企业破产重整案件信息网",
+      "url": "http://pccz.court.gov.cn/pcajxxw/index/xxwsy",
+      "site_id": 54,
+      "variants": [
+        {
+          "id": "54_a",
+          "query": [
+            0.359,
+            0.181,
+            0.549,
+            0.22
+          ],
+          "result": [
+            0.374,
+            0.421,
+            0.806,
+            0.654
+          ],
+          "source": "mapped_input",
+          "result_extent": "bounded",
+          "no_query_reason": null,
+          "asset": "54_a.npz",
+          "feature_size": [
+            1200,
+            675
+          ],
+          "near_region": [
+            262.79999999999995,
+            48.599999999999994,
+            826.8000000000001,
+            202.5
+          ],
+          "near_features": 134,
+          "reference_sha": "c276a0cfbd00f42aa4ac501967e18784fa3af03c1534d2c5a7e7dd3c115a43a6",
+          "reference_size": [
+            1920,
+            1080
+          ],
+          "reference_feature_count": 156,
+          "static_preview": "54_a_static.jpg",
+          "provenance": "人工查看该栏目原始截图，仅标定区域，不标注答案"
+        }
+      ]
+    },
+    "人民法院公告网|rmfygg.court.gov.cn": {
+      "key": "人民法院公告网|rmfygg.court.gov.cn",
+      "name": "人民法院公告网",
+      "url": "https://rmfygg.court.gov.cn/",
+      "site_id": 55,
+      "variants": [
+        {
+          "id": "55_a",
+          "query": [
+            0.349,
+            0.176,
+            0.474,
+            0.213
+          ],
+          "result": [
+            0.313,
+            0.301,
+            0.687,
+            0.528
+          ],
+          "source": "mapped_input",
+          "result_extent": "bounded",
+          "no_query_reason": null,
+          "asset": "55_a.npz",
+          "feature_size": [
+            1200,
+            675
+          ],
+          "near_region": [
+            250.79999999999995,
+            48.599999999999994,
+            736.8,
+            197.77499999999998
+          ],
+          "near_features": 186,
+          "reference_sha": "78b10529daf63a388242c3bae0ee7ac140a012ce158e401990d2f6c16ce08e57",
+          "reference_size": [
+            1920,
+            1080
+          ],
+          "reference_feature_count": 224,
+          "static_preview": "55_a_static.jpg",
+          "provenance": "人工查看该栏目原始截图，仅标定区域，不标注答案"
+        }
+      ]
+    },
+    "人民法院诉讼资产网(工作公示)|rmfysszc.gov.cn": {
+      "key": "人民法院诉讼资产网(工作公示)|rmfysszc.gov.cn",
+      "name": "人民法院诉讼资产网(工作公示)",
+      "url": "https://www.rmfysszc.gov.cn/",
+      "site_id": 56,
+      "variants": [
+        {
+          "id": "56_a",
+          "query": [
+            0.363,
+            0.23,
+            0.471,
+            0.25
+          ],
+          "result": [
+            0.286,
+            0.298,
+            0.794,
+            0.943
+          ],
+          "source": "mapped_input",
+          "result_extent": "viewport",
+          "no_query_reason": null,
+          "asset": "56_a.npz",
+          "feature_size": [
+            1200,
+            675
+          ],
+          "near_region": [
+            267.59999999999997,
+            48.599999999999994,
+            733.1999999999999,
+            222.75
+          ],
+          "near_features": 343,
+          "reference_sha": "1ac681ece01650c12b334a4f97c7de8d9a6df74c3dadf4ca1de436c135454f3c",
+          "reference_size": [
+            1920,
+            1080
+          ],
+          "reference_feature_count": 427,
+          "static_preview": "56_a_static.jpg",
+          "provenance": "人工查看该栏目原始截图，仅标定区域，不标注答案"
+        }
+      ]
+    },
+    "人民法院诉讼资产网(拍卖项目)|rmfysszc.gov.cn": {
+      "key": "人民法院诉讼资产网(拍卖项目)|rmfysszc.gov.cn",
+      "name": "人民法院诉讼资产网(拍卖项目)",
+      "url": "https://www.rmfysszc.gov.cn/",
+      "site_id": 57,
+      "variants": [
+        {
+          "id": "57_a",
+          "query": [
+            0.404,
+            0.318,
+            0.516,
+            0.343
+          ],
+          "result": [
+            0.254,
+            0.636,
+            0.798,
+            0.963
+          ],
+          "source": "mapped_input",
+          "result_extent": "viewport",
+          "no_query_reason": null,
+          "asset": "57_a.npz",
+          "feature_size": [
+            1200,
+            675
+          ],
+          "near_region": [
+            316.8,
+            79.64999999999999,
+            787.2,
+            285.52500000000003
+          ],
+          "near_features": 287,
+          "reference_sha": "3c78bc086743cd744cb6c1d362825ed7c694b2deb82511eb14b2d4382d3d09c1",
+          "reference_size": [
+            1920,
+            1080
+          ],
+          "reference_feature_count": 651,
+          "static_preview": "57_a_static.jpg",
+          "provenance": "人工查看该栏目原始截图，仅标定区域，不标注答案"
+        }
+      ]
+    },
+    "国家外汇管理局|safe.gov.cn/www/illegal?siteid=safe": {
+      "key": "国家外汇管理局|safe.gov.cn/www/illegal?siteid=safe",
+      "name": "国家外汇管理局",
+      "url": "https://www.safe.gov.cn/www/illegal?siteid=safe",
+      "site_id": 58,
+      "variants": [
+        {
+          "id": "58_a",
+          "query": [
+            0.516,
+            0.179,
+            0.599,
+            0.21
+          ],
+          "result": [
+            0.013,
+            0.276,
+            0.981,
+            0.413
+          ],
+          "source": "mapped_input",
+          "result_extent": "bounded",
+          "no_query_reason": null,
+          "asset": "58_a.npz",
+          "feature_size": [
+            1200,
+            675
+          ],
+          "near_region": [
+            451.2,
+            48.599999999999994,
+            886.8,
+            195.75
+          ],
+          "near_features": 35,
+          "reference_sha": "97733998c33e6e2edec356d495d1025e596f5f88a36cf31652685add08aea1ab",
+          "reference_size": [
+            1920,
+            1080
+          ],
+          "reference_feature_count": 80,
+          "static_preview": "58_a_static.jpg",
+          "provenance": "人工查看该栏目原始截图，仅标定区域，不标注答案"
+        }
+      ]
+    },
+    "国家市场监督管理总局|samr.gov.cn": {
+      "key": "国家市场监督管理总局|samr.gov.cn",
+      "name": "国家市场监督管理总局",
+      "url": "https://www.samr.gov.cn/",
+      "site_id": 59,
+      "variants": [
+        {
+          "id": "59_a",
+          "query": [
+            0.411,
+            0.095,
+            0.556,
+            0.123
+          ],
+          "result": [
+            0.309,
+            0.213,
+            0.554,
+            0.943
+          ],
+          "source": "mapped_input",
+          "result_extent": "viewport",
+          "no_query_reason": null,
+          "asset": "59_a.npz",
+          "feature_size": [
+            1200,
+            675
+          ],
+          "near_region": [
+            325.19999999999993,
+            48.599999999999994,
+            835.2,
+            137.025
+          ],
+          "near_features": 95,
+          "reference_sha": "39039ed8cf154ec91eb1bcb51767f39af006d82097135029dc6d84a6753d02ab",
+          "reference_size": [
+            1920,
+            1080
+          ],
+          "reference_feature_count": 100,
+          "static_preview": "59_a_static.jpg",
+          "provenance": "人工查看该栏目原始截图，仅标定区域，不标注答案"
+        }
+      ]
+    },
+    "中国商标网|sbj.cnipa.gov.cn/sbj/index.html": {
+      "key": "中国商标网|sbj.cnipa.gov.cn/sbj/index.html",
+      "name": "中国商标网",
+      "url": "https://sbj.cnipa.gov.cn/sbj/index.html",
+      "site_id": 60,
+      "variants": [
+        {
+          "id": "60_a",
+          "query": null,
+          "result": [
+            0.24,
+            0.21,
+            0.758,
+            0.963
+          ],
+          "source": "mapped_input",
+          "result_extent": "viewport",
+          "no_query_reason": "当前版式未显示查询控件",
+          "asset": "60_a.npz",
+          "feature_size": [
+            1200,
+            675
+          ],
+          "near_region": [
+            119.99999999999997,
+            48.599999999999994,
+            1077.6000000000001,
+            675
+          ],
+          "near_features": 146,
+          "reference_sha": "9ff3a92e541f1a57c0311f66a7b239ed1a796bed5ad5ff0a74cebe452393b0a9",
+          "reference_size": [
+            1920,
+            1080
+          ],
+          "reference_feature_count": 146,
+          "static_preview": "60_a_static.jpg",
+          "provenance": "人工查看该栏目原始截图，仅标定区域，不标注答案"
+        }
+      ]
+    },
+    "最高人民检查院|spp.gov.cn": {
+      "key": "最高人民检查院|spp.gov.cn",
+      "name": "最高人民检查院",
+      "url": "https://www.spp.gov.cn/",
+      "site_id": 61,
+      "variants": [
+        {
+          "id": "61_a",
+          "query": [
+            0.179,
+            0.067,
+            0.426,
+            0.113
+          ],
+          "result": [
+            0.082,
+            0.284,
+            0.43,
+            0.462
+          ],
+          "source": "mapped_input",
+          "result_extent": "bounded",
+          "no_query_reason": null,
+          "asset": "61_a.npz",
+          "feature_size": [
+            1200,
+            675
+          ],
+          "near_region": [
+            46.799999999999976,
+            48.599999999999994,
+            679.2,
+            130.275
+          ],
+          "near_features": 9,
+          "reference_sha": "9069ef5e173ea23a720ef89ba5a0d130143fa0863d376073c7c5e2e6230f40d5",
+          "reference_size": [
+            1920,
+            1080
+          ],
+          "reference_feature_count": 92,
+          "static_preview": "61_a_static.jpg",
+          "provenance": "人工查看该栏目原始截图，仅标定区域，不标注答案"
+        }
+      ]
+    },
+    "上交所网站|sse.com.cn": {
+      "key": "上交所网站|sse.com.cn",
+      "name": "上交所网站",
+      "url": "http://www.sse.com.cn/",
+      "site_id": 62,
+      "variants": [
+        {
+          "id": "62_a",
+          "query": [
+            0.316,
+            0.164,
+            0.6,
+            0.199
+          ],
+          "result": [
+            0.108,
+            0.29,
+            0.892,
+            0.481
+          ],
+          "source": "mapped_input",
+          "result_extent": "bounded",
+          "no_query_reason": null,
+          "asset": "62_a.npz",
+          "feature_size": [
+            1200,
+            900
+          ],
+          "near_region": [
+            211.2,
+            64.8,
+            888.0,
+            251.10000000000002
+          ],
+          "near_features": 163,
+          "reference_sha": "3aa93a2149471554cc5818a86bd4f88d68988b8c5c052b220e1effa27b8b1cb0",
+          "reference_size": [
+            1905,
+            1428
+          ],
+          "reference_feature_count": 295,
+          "static_preview": "62_a_static.jpg",
+          "provenance": "人工查看该栏目原始截图，仅标定区域，不标注答案"
+        }
+      ]
+    },
+    "上交所上市公司监管措施|sse.com.cn/disclosure/credibility/supervision/measures": {
+      "key": "上交所上市公司监管措施|sse.com.cn/disclosure/credibility/supervision/measures",
+      "name": "上交所上市公司监管措施",
+      "url": "http://www.sse.com.cn/disclosure/credibility/supervision/measures/",
+      "site_id": 63,
+      "variants": [
+        {
+          "id": "63_a",
+          "query": [
+            0.104,
+            0.27,
+            0.22,
+            0.299
+          ],
+          "result": [
+            0.241,
+            0.216,
+            0.897,
+            0.56
+          ],
+          "source": "mapped_input",
+          "result_extent": "bounded",
+          "no_query_reason": null,
+          "asset": "63_a.npz",
+          "feature_size": [
+            1200,
+            1083
+          ],
+          "near_region": [
+            0,
+            77.976,
+            432.0,
+            410.457
+          ],
+          "near_features": 93,
+          "reference_sha": "9adebb7e2fde9c5fbe3829a68038ecd8b481abb92c95262f40a6458ef7a4f908",
+          "reference_size": [
+            1905,
+            1720
+          ],
+          "reference_feature_count": 119,
+          "static_preview": "63_a_static.jpg",
+          "provenance": "人工查看该栏目原始截图，仅标定区域，不标注答案"
+        }
+      ]
+    },
+    "国家统计局|stats.gov.cn": {
+      "key": "国家统计局|stats.gov.cn",
+      "name": "国家统计局",
+      "url": "http://www.stats.gov.cn/",
+      "site_id": 64,
+      "variants": [
+        {
+          "id": "64_a",
+          "query": [
+            0.544,
+            0.127,
+            0.675,
+            0.171
+          ],
+          "result": [
+            0.282,
+            0.212,
+            0.59,
+            0.267
+          ],
+          "source": "mapped_input",
+          "result_extent": "bounded",
+          "no_query_reason": null,
+          "asset": "64_a.npz",
+          "feature_size": [
+            1200,
+            675
+          ],
+          "near_region": [
+            484.8,
+            48.599999999999994,
+            978.0000000000001,
+            169.425
+          ],
+          "near_features": 8,
+          "reference_sha": "8728bf96932e9170afbc6ada8abf2d1d0b62c770b882823dc0b97e7c9c95f071",
+          "reference_size": [
+            1920,
+            1080
+          ],
+          "reference_feature_count": 8,
+          "static_preview": "64_a_static.jpg",
+          "provenance": "人工查看该栏目原始截图，仅标定区域，不标注答案"
+        }
+      ]
+    },
+    "深交所债券监管措施|szse.cn/disclosure/bond/measure/index.html": {
+      "key": "深交所债券监管措施|szse.cn/disclosure/bond/measure/index.html",
+      "name": "深交所债券监管措施",
+      "url": "http://www.szse.cn/disclosure/bond/measure/index.html",
+      "site_id": 65,
+      "variants": [
+        {
+          "id": "65_a",
+          "query": [
+            0.372,
+            0.429,
+            0.45,
+            0.468
+          ],
+          "result": [
+            0.337,
+            0.563,
+            0.789,
+            0.657
+          ],
+          "source": "mapped_input",
+          "result_extent": "bounded",
+          "no_query_reason": null,
+          "asset": "65_a.npz",
+          "feature_size": [
+            1200,
+            675
+          ],
+          "near_region": [
+            278.4,
+            154.575,
+            708.0000000000001,
+            369.90000000000003
+          ],
+          "near_features": 158,
+          "reference_sha": "f4c2cb748471d29cce8ce5479ab2ae8dbd657d8700cfea060fb4e666b4b75365",
+          "reference_size": [
+            1920,
+            1080
+          ],
+          "reference_feature_count": 472,
+          "static_preview": "65_a_static.jpg",
+          "provenance": "人工查看该栏目原始截图，仅标定区域，不标注答案"
+        }
+      ]
+    },
+    "深交所债券纪律处分|szse.cn/disclosure/bond/punish/index.html": {
+      "key": "深交所债券纪律处分|szse.cn/disclosure/bond/punish/index.html",
+      "name": "深交所债券纪律处分",
+      "url": "http://www.szse.cn/disclosure/bond/punish/index.html",
+      "site_id": 66,
+      "variants": [
+        {
+          "id": "66_a",
+          "query": [
+            0.372,
+            0.429,
+            0.45,
+            0.468
+          ],
+          "result": [
+            0.337,
+            0.563,
+            0.789,
+            0.657
+          ],
+          "source": "mapped_input",
+          "result_extent": "bounded",
+          "no_query_reason": null,
+          "asset": "66_a.npz",
+          "feature_size": [
+            1200,
+            675
+          ],
+          "near_region": [
+            278.4,
+            154.575,
+            708.0000000000001,
+            369.90000000000003
+          ],
+          "near_features": 145,
+          "reference_sha": "971cc9b16c2e569035abc9955424a767504f4390b9fd2055d8fb2ef0e98515a5",
+          "reference_size": [
+            1920,
+            1080
+          ],
+          "reference_feature_count": 459,
+          "static_preview": "66_a_static.jpg",
+          "provenance": "人工查看该栏目原始截图，仅标定区域，不标注答案"
+        }
+      ]
+    },
+    "深交所上市公司处罚与处分记录|szse.cn/disclosure/listed/credit/record/index.html": {
+      "key": "深交所上市公司处罚与处分记录|szse.cn/disclosure/listed/credit/record/index.html",
+      "name": "深交所上市公司处罚与处分记录",
+      "url": "http://www.szse.cn/disclosure/listed/credit/record/index.html",
+      "site_id": 67,
+      "variants": [
+        {
+          "id": "67_a",
+          "query": [
+            0.493,
+            0.429,
+            0.583,
+            0.468
+          ],
+          "result": [
+            0.337,
+            0.615,
+            0.79,
+            0.687
+          ],
+          "source": "mapped_input",
+          "result_extent": "bounded",
+          "no_query_reason": null,
+          "asset": "67_a.npz",
+          "feature_size": [
+            1200,
+            675
+          ],
+          "near_region": [
+            423.59999999999997,
+            154.575,
+            867.6,
+            369.90000000000003
+          ],
+          "near_features": 64,
+          "reference_sha": "cd9e01170c6bb3e1446d58736310a30e2aef1fcf50f1bcc4d9fdca046159970e",
+          "reference_size": [
+            1920,
+            1080
+          ],
+          "reference_feature_count": 630,
+          "static_preview": "67_a_static.jpg",
+          "provenance": "人工查看该栏目原始截图，仅标定区域，不标注答案"
+        }
+      ]
+    },
+    "深交所监管动态|szse.cn/disclosure/supervision/dynamic/index.html": {
+      "key": "深交所监管动态|szse.cn/disclosure/supervision/dynamic/index.html",
+      "name": "深交所监管动态",
+      "url": "http://www.szse.cn/disclosure/supervision/dynamic/index.html",
+      "site_id": 68,
+      "variants": [
+        {
+          "id": "68_a",
+          "query": [
+            0.333,
+            0.476,
+            0.419,
+            0.504
+          ],
+          "result": [
+            0.335,
+            0.522,
+            0.789,
+            0.615
+          ],
+          "source": "mapped_input",
+          "result_extent": "bounded",
+          "no_query_reason": null,
+          "asset": "68_a.npz",
+          "feature_size": [
+            1200,
+            675
+          ],
+          "near_region": [
+            231.6,
+            186.29999999999998,
+            670.8,
+            394.2
+          ],
+          "near_features": 234,
+          "reference_sha": "8853c2e12940e0564126cf2d2eef1d6481e67b93e676819d0437592e33160853",
+          "reference_size": [
+            1920,
+            1080
+          ],
+          "reference_feature_count": 406,
+          "static_preview": "68_a_static.jpg",
+          "provenance": "人工查看该栏目原始截图，仅标定区域，不标注答案"
+        }
+      ]
+    },
+    "深交所复核决定|szse.cn/disclosure/supervision/measure/decision/index.html": {
+      "key": "深交所复核决定|szse.cn/disclosure/supervision/measure/decision/index.html",
+      "name": "深交所复核决定",
+      "url": "http://www.szse.cn/disclosure/supervision/measure/decision/index.html",
+      "site_id": 69,
+      "variants": [
+        {
+          "id": "69_a",
+          "query": [
+            0.333,
+            0.476,
+            0.419,
+            0.504
+          ],
+          "result": [
+            0.335,
+            0.522,
+            0.789,
+            0.615
+          ],
+          "source": "mapped_input",
+          "result_extent": "bounded",
+          "no_query_reason": null,
+          "asset": "69_a.npz",
+          "feature_size": [
+            1200,
+            675
+          ],
+          "near_region": [
+            231.6,
+            186.29999999999998,
+            670.8,
+            394.2
+          ],
+          "near_features": 254,
+          "reference_sha": "86192f08aa2c73d878114b7b3ce73b4b4f7b2da9fb8d4b4d47d619e854fcfdf1",
+          "reference_size": [
+            1920,
+            1080
+          ],
+          "reference_feature_count": 427,
+          "static_preview": "69_a_static.jpg",
+          "provenance": "人工查看该栏目原始截图，仅标定区域，不标注答案"
+        }
+      ]
+    },
+    "深交所监管措施|szse.cn/disclosure/supervision/measure/measure/index.html": {
+      "key": "深交所监管措施|szse.cn/disclosure/supervision/measure/measure/index.html",
+      "name": "深交所监管措施",
+      "url": "http://www.szse.cn/disclosure/supervision/measure/measure/index.html",
+      "site_id": 70,
+      "variants": [
+        {
+          "id": "70_a",
+          "query": [
+            0.393,
+            0.429,
+            0.472,
+            0.468
+          ],
+          "result": [
+            0.337,
+            0.599,
+            0.789,
+            0.676
+          ],
+          "source": "mapped_input",
+          "result_extent": "bounded",
+          "no_query_reason": null,
+          "asset": "70_a.npz",
+          "feature_size": [
+            1200,
+            675
+          ],
+          "near_region": [
+            303.6,
+            154.575,
+            734.4,
+            369.90000000000003
+          ],
+          "near_features": 131,
+          "reference_sha": "ed676bff30b0c6415d351623f7b2d699b93a8dfaa0e853b0e2e2e539ff7bd75f",
+          "reference_size": [
+            1920,
+            1080
+          ],
+          "reference_feature_count": 512,
+          "static_preview": "70_a_static.jpg",
+          "provenance": "人工查看该栏目原始截图，仅标定区域，不标注答案"
+        }
+      ]
+    },
+    "深交所纪律处分|szse.cn/disclosure/supervision/measure/pushish/index.html": {
+      "key": "深交所纪律处分|szse.cn/disclosure/supervision/measure/pushish/index.html",
+      "name": "深交所纪律处分",
+      "url": "http://www.szse.cn/disclosure/supervision/measure/pushish/index.html",
+      "site_id": 71,
+      "variants": [
+        {
+          "id": "71_a",
+          "query": [
+            0.493,
+            0.429,
+            0.583,
+            0.468
+          ],
+          "result": [
+            0.337,
+            0.599,
+            0.789,
+            0.676
+          ],
+          "source": "mapped_input",
+          "result_extent": "bounded",
+          "no_query_reason": null,
+          "asset": "71_a.npz",
+          "feature_size": [
+            1200,
+            675
+          ],
+          "near_region": [
+            423.59999999999997,
+            154.575,
+            867.6,
+            369.90000000000003
+          ],
+          "near_features": 53,
+          "reference_sha": "f7b6d68f57f25086e5eb7cb5050cc1a5027054c561ad7f46bf713fdd0cd77311",
+          "reference_size": [
+            1920,
+            1080
+          ],
+          "reference_feature_count": 510,
+          "static_preview": "71_a_static.jpg",
+          "provenance": "人工查看该栏目原始截图，仅标定区域，不标注答案"
+        }
+      ]
+    },
+    "深交所承诺事项及履行情况|szse.cn/disclosure/supervision/promise/index.html": {
+      "key": "深交所承诺事项及履行情况|szse.cn/disclosure/supervision/promise/index.html",
+      "name": "深交所承诺事项及履行情况",
+      "url": "http://www.szse.cn/disclosure/supervision/promise/index.html",
+      "site_id": 72,
+      "variants": [
+        {
+          "id": "72_a",
+          "query": [
+            0.486,
+            0.429,
+            0.581,
+            0.468
+          ],
+          "result": [
+            0.337,
+            0.64,
+            0.79,
+            0.735
+          ],
+          "source": "mapped_input",
+          "result_extent": "bounded",
+          "no_query_reason": null,
+          "asset": "72_a.npz",
+          "feature_size": [
+            1200,
+            675
+          ],
+          "near_region": [
+            415.2,
+            154.575,
+            865.1999999999999,
+            369.90000000000003
+          ],
+          "near_features": 130,
+          "reference_sha": "2e94f8952864bc2abba1548e0f7e780b7b524431c39999f382c90bb925909d85",
+          "reference_size": [
+            1920,
+            1080
+          ],
+          "reference_feature_count": 753,
+          "static_preview": "72_a_static.jpg",
+          "provenance": "人工查看该栏目原始截图，仅标定区域，不标注答案"
+        }
+      ]
+    },
+    "深交所中介机构监管|szse.cn/disclosure/supervision/supervise/index.html": {
+      "key": "深交所中介机构监管|szse.cn/disclosure/supervision/supervise/index.html",
+      "name": "深交所中介机构监管",
+      "url": "http://www.szse.cn/disclosure/supervision/supervise/index.html",
+      "site_id": 73,
+      "variants": [
+        {
+          "id": "73_a",
+          "query": [
+            0.372,
+            0.429,
+            0.45,
+            0.468
+          ],
+          "result": [
+            0.337,
+            0.563,
+            0.789,
+            0.657
+          ],
+          "source": "mapped_input",
+          "result_extent": "bounded",
+          "no_query_reason": null,
+          "asset": "73_a.npz",
+          "feature_size": [
+            1200,
+            675
+          ],
+          "near_region": [
+            278.4,
+            154.575,
+            708.0000000000001,
+            369.90000000000003
+          ],
+          "near_features": 202,
+          "reference_sha": "878a780b46349917654c76317f26ec5c9425ddd1a7649a1bfb7bad8b40f862ea",
+          "reference_size": [
+            1920,
+            1080
+          ],
+          "reference_feature_count": 488,
+          "static_preview": "73_a_static.jpg",
+          "provenance": "人工查看该栏目原始截图，仅标定区域，不标注答案"
+        }
+      ]
+    },
+    "深交所交易监管_监管案例|szse.cn/disclosure/supervision/transaction/case/index.html": {
+      "key": "深交所交易监管_监管案例|szse.cn/disclosure/supervision/transaction/case/index.html",
+      "name": "深交所交易监管_监管案例",
+      "url": "http://www.szse.cn/disclosure/supervision/transaction/case/index.html",
+      "site_id": 74,
+      "variants": [
+        {
+          "id": "74_a",
+          "query": [
+            0.333,
+            0.476,
+            0.419,
+            0.504
+          ],
+          "result": [
+            0.335,
+            0.522,
+            0.789,
+            0.615
+          ],
+          "source": "mapped_input",
+          "result_extent": "bounded",
+          "no_query_reason": null,
+          "asset": "74_a.npz",
+          "feature_size": [
+            1200,
+            675
+          ],
+          "near_region": [
+            231.6,
+            186.29999999999998,
+            670.8,
+            394.2
+          ],
+          "near_features": 238,
+          "reference_sha": "db053578506ff8faf501efd40c6c02d15d23b70c217b0b067f8a86b50bc6d87a",
+          "reference_size": [
+            1920,
+            1080
+          ],
+          "reference_feature_count": 410,
+          "static_preview": "74_a_static.jpg",
+          "provenance": "人工查看该栏目原始截图，仅标定区域，不标注答案"
+        }
+      ]
+    },
+    "深交所交易监管_限制交易|szse.cn/disclosure/supervision/transaction/restrict/index.html": {
+      "key": "深交所交易监管_限制交易|szse.cn/disclosure/supervision/transaction/restrict/index.html",
+      "name": "深交所交易监管_限制交易",
+      "url": "http://www.szse.cn/disclosure/supervision/transaction/restrict/index.html",
+      "site_id": 75,
+      "variants": [
+        {
+          "id": "75_a",
+          "query": [
+            0.333,
+            0.476,
+            0.419,
+            0.504
+          ],
+          "result": [
+            0.335,
+            0.522,
+            0.789,
+            0.615
+          ],
+          "source": "mapped_input",
+          "result_extent": "bounded",
+          "no_query_reason": null,
+          "asset": "75_a.npz",
+          "feature_size": [
+            1200,
+            675
+          ],
+          "near_region": [
+            231.6,
+            186.29999999999998,
+            670.8,
+            394.2
+          ],
+          "near_features": 440,
+          "reference_sha": "5ca29a14699c6b6ecde6cc867ee27f538a9ff647fd9719a2a8e51fab7cd44d91",
+          "reference_size": [
+            1920,
+            1080
+          ],
+          "reference_feature_count": 616,
+          "static_preview": "75_a_static.jpg",
+          "provenance": "人工查看该栏目原始截图，仅标定区域，不标注答案"
+        }
+      ]
+    },
+    "深交所网站|szse.cn/index/index.html": {
+      "key": "深交所网站|szse.cn/index/index.html",
+      "name": "深交所网站",
+      "url": "http://www.szse.cn/index/index.html",
+      "site_id": 76,
+      "variants": [
+        {
+          "id": "76_a",
+          "query": [
+            0.351,
+            0.34,
+            0.59,
+            0.385
+          ],
+          "result": [
+            0.386,
+            0.585,
+            0.702,
+            0.735
+          ],
+          "source": "mapped_input",
+          "result_extent": "bounded",
+          "no_query_reason": null,
+          "asset": "76_a.npz",
+          "feature_size": [
+            1200,
+            675
+          ],
+          "near_region": [
+            253.19999999999996,
+            94.50000000000001,
+            876.0,
+            313.875
+          ],
+          "near_features": 50,
+          "reference_sha": "3dfe080f34f6934955148eb396bda9d6123413d50b2191bc7a1b428c641e56e4",
+          "reference_size": [
+            1920,
+            1080
+          ],
+          "reference_feature_count": 165,
+          "static_preview": "76_a_static.jpg",
+          "provenance": "人工查看该栏目原始截图，仅标定区域，不标注答案"
+        }
+      ]
+    },
+    "信用能源|xyny.nea.gov.cn/main": {
+      "key": "信用能源|xyny.nea.gov.cn/main",
+      "name": "信用能源",
+      "url": "http://xyny.nea.gov.cn/main",
+      "site_id": 77,
+      "variants": [
+        {
+          "id": "77_a",
+          "query": [
+            0.705,
+            0.128,
+            0.828,
+            0.152
+          ],
+          "result": [
+            0.153,
+            0.251,
+            0.85,
+            0.338
+          ],
+          "source": "mapped_input",
+          "result_extent": "bounded",
+          "no_query_reason": null,
+          "asset": "77_a.npz",
+          "feature_size": [
+            1200,
+            675
+          ],
+          "near_region": [
+            677.9999999999999,
+            48.599999999999994,
+            1161.6,
+            156.6
+          ],
+          "near_features": 25,
+          "reference_sha": "95bec686c76d673dbf453d3234cddf19be5ac3867459ee9eea6d51af863fb7e8",
+          "reference_size": [
+            1920,
+            1080
+          ],
+          "reference_feature_count": 102,
+          "static_preview": "77_a_static.jpg",
+          "provenance": "人工查看该栏目原始截图，仅标定区域，不标注答案"
+        }
+      ]
+    },
+    "盐行业信用管理与公共服务平台|yan.bcpcn.com/website/index.jsp": {
+      "key": "盐行业信用管理与公共服务平台|yan.bcpcn.com/website/index.jsp",
+      "name": "盐行业信用管理与公共服务平台",
+      "url": "http://yan.bcpcn.com/website/index.jsp",
+      "site_id": 78,
+      "variants": [
+        {
+          "id": "78_a",
+          "query": [
+            0.348,
+            0.224,
+            0.604,
+            0.256
+          ],
+          "result": [
+            0.321,
+            0.359,
+            0.58,
+            0.811
+          ],
+          "source": "mapped_input",
+          "result_extent": "bounded",
+          "no_query_reason": null,
+          "asset": "78_a.npz",
+          "feature_size": [
+            1200,
+            675
+          ],
+          "near_region": [
+            249.59999999999997,
+            48.599999999999994,
+            892.8,
+            226.8
+          ],
+          "near_features": 161,
+          "reference_sha": "ae4f9a18ce98160a05073b0039f806250c4bda0e85d6074e78ad9b068e9b30f7",
+          "reference_size": [
+            1920,
+            1080
+          ],
+          "reference_feature_count": 250,
+          "static_preview": "78_a_static.jpg",
+          "provenance": "人工查看该栏目原始截图，仅标定区域，不标注答案"
+        }
+      ]
+    },
+    "全国法院失信被执行人名单信息查询系统|zxgk.court.gov.cn/shixin": {
+      "key": "全国法院失信被执行人名单信息查询系统|zxgk.court.gov.cn/shixin",
+      "name": "全国法院失信被执行人名单信息查询系统",
+      "url": "https://zxgk.court.gov.cn/shixin/",
+      "site_id": 79,
+      "variants": [
+        {
+          "id": "79_a",
+          "query": [
+            0.356,
+            0.3,
+            0.738,
+            0.342
+          ],
+          "result": [
+            0.204,
+            0.571,
+            0.791,
+            0.642
+          ],
+          "source": "mapped_input",
+          "result_extent": "bounded",
+          "no_query_reason": null,
+          "asset": "79_a.npz",
+          "feature_size": [
+            1200,
+            675
+          ],
+          "near_region": [
+            259.2,
+            67.49999999999999,
+            1053.6,
+            284.85
+          ],
+          "near_features": 145,
+          "reference_sha": "cb655891bd28439ae5ad13591445137df0c81fb3ce04dba87c53338418648c5a",
+          "reference_size": [
+            1920,
+            1080
+          ],
+          "reference_feature_count": 178,
+          "static_preview": "79_a_static.jpg",
+          "provenance": "人工查看该栏目原始截图，仅标定区域，不标注答案"
+        }
+      ]
+    },
+    "全国法院被执行人信息查询系统|zxgk.court.gov.cn/zhixing": {
+      "key": "全国法院被执行人信息查询系统|zxgk.court.gov.cn/zhixing",
+      "name": "全国法院被执行人信息查询系统",
+      "url": "https://zxgk.court.gov.cn/zhixing/",
+      "site_id": 80,
+      "variants": [
+        {
+          "id": "80_a",
+          "query": [
+            0.356,
+            0.288,
+            0.738,
+            0.327
+          ],
+          "result": [
+            0.204,
+            0.552,
+            0.791,
+            0.625
+          ],
+          "source": "mapped_input",
+          "result_extent": "bounded",
+          "no_query_reason": null,
+          "asset": "80_a.npz",
+          "feature_size": [
+            1200,
+            675
+          ],
+          "near_region": [
+            259.2,
+            59.39999999999998,
+            1053.6,
+            274.725
+          ],
+          "near_features": 291,
+          "reference_sha": "94fac430df45cd46f813a517f1f124f2eec97b90221ab5dc987d95e41de4e49e",
+          "reference_size": [
+            1920,
+            1080
+          ],
+          "reference_feature_count": 342,
+          "static_preview": "80_a_static.jpg",
+          "provenance": "人工查看该栏目原始截图，仅标定区域，不标注答案"
+        }
+      ]
+    },
+    "全国法院信息综合查询被执行人|zxgk.court.gov.cn/zhzxgk": {
+      "key": "全国法院信息综合查询被执行人|zxgk.court.gov.cn/zhzxgk",
+      "name": "全国法院信息综合查询被执行人",
+      "url": "https://zxgk.court.gov.cn/zhzxgk/",
+      "site_id": 81,
+      "variants": [
+        {
+          "id": "81_a",
+          "query": [
+            0.356,
+            0.288,
+            0.738,
+            0.327
+          ],
+          "result": [
+            0.204,
+            0.552,
+            0.791,
+            0.625
+          ],
+          "source": "mapped_input",
+          "result_extent": "bounded",
+          "no_query_reason": null,
+          "asset": "81_a.npz",
+          "feature_size": [
+            1200,
+            675
+          ],
+          "near_region": [
+            259.2,
+            59.39999999999998,
+            1053.6,
+            274.725
+          ],
+          "near_features": 293,
+          "reference_sha": "018f96220b305ecfff32bc28a4ddac40f0c4a39f7c644bcfa261464b4d2d260f",
+          "reference_size": [
+            1920,
+            1080
+          ],
+          "reference_feature_count": 341,
+          "static_preview": "81_a_static.jpg",
+          "provenance": "人工查看该栏目原始截图，仅标定区域，不标注答案"
+        }
+      ]
+    }
+  }
+}
